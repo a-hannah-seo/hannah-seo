@@ -22,5 +22,13 @@ body {
 
 h1, h2, h3, h4, h5, h6,
 header {
-  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $header-font-family;
+  font-family: $header-font-family;
+}
+
+h1 {
+  font-size: xxx-large;
+
+  @include media-query($on-palm) {
+    font-size: xx-large;
+  }
 }
