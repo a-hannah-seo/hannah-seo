@@ -21,10 +21,10 @@ photo_url: https://static.wixstatic.com/media/b48ef4_8c8afe0885bd4f9ea6fb6f7550e
       Her journalism can be found in The Atlantic, Vox, Scientific American, The Guardian, and Catapult (RIP), among others. Common topics of interest include neuroscience/psychology, ocean ecology, the intersection of climate and mental health, and social science. 
     </p>
     <p>
-      She immerses herself in crafting essays and poetry. Her works have been featured in The New Limestone Review, Portland Review, Barzakh Magazine, and The Broadkill Review, and more. She is currently working toward her first collection on the heels of a year in the Brooklyn Poets Mentorship Program.
+      When not reporting, she immerses herself in crafting essays and poetry. Her works have been featured in publications like The New Limestone Review, Portland Review, Barzakh Magazine, and The Broadkill Review. Currently, she is working on her first collection after her time in the Brooklyn Poets Mentorship Program.
     </p>
     <p>
-      She is available for writing, editing, and fact-checking. <a href="/contact"><u>Get in touch</u></a>.
+      Hannah is available for writing, editing, and fact-checking. <a href="/contact"><u>Get in touch</u></a>.
     </p>
   </div>
 </div>
