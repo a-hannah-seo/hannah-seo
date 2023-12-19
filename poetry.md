@@ -2,7 +2,7 @@
 layout: page
 title: Poetry
 permalink: /poetry/
-priority: 3
+priority: 2
 ---
 
 <div class="poem-box">
