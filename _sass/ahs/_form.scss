@@ -1,0 +1,44 @@
+form {
+  max-width: 600px;
+
+  .row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  .column {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 0;
+    padding: 0 1em;
+  }
+
+  .submit {
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  button {
+    padding: 0.5em 1.5em;
+  }
+
+  input {
+      height: 2rem;
+      font-family: 'Dosis';
+      font-size: large;
+      padding: 0 0.5em 0 0.5em;
+      margin-bottom: 1rem;
+  }
+
+  textarea {
+      font-family: 'Dosis';
+      font-size: large;
+      padding: 1em;
+      margin-bottom: .5rem;
+  }
+
+  label {
+    font-size: smaller;
+  }
+}
