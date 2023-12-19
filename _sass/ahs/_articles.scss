@@ -20,6 +20,11 @@
   height: auto;
 }
 
+.article-title {
+  font-family: $header-font-family;
+  font-size: larger;
+}
+
 .article-text {
   position: relative;
   margin: .75rem 0 .75rem 0;

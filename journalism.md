@@ -11,7 +11,7 @@ priority: 1
     <div class="article">
       <img class="article-image" src="{{ article.image }}"/>
       <div class="article-text">
-        <p><span class="article-highlight"> "{{ article.title }}" </span></p>
+        <p><span class="article-highlight article-title"> "{{ article.title }}" </span></p>
         <p><span class="article-highlight"> {{ article.blurb }} </span></p>
         <p><span class="article-highlight"><i><a href="{{ article.link }}"> {{ article.publication }} </a></i></span></p>
       </div>
