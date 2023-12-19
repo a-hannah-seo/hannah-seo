@@ -22,12 +22,13 @@ title: Hannah Seo
 title_short: HS
 email: a.hannah.seo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  site by C.W. with ♡
+  journalist, writer, editor, fact-checker, poet
+footer_description: site by C.W. with ♡
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ahannahseo
-bluesky_username: ahannahseo
-# github_username:  
+bluesky_username: hannahseo.com
+instagram_username: ahannahseo
 
 # Build settings
 theme: minima
