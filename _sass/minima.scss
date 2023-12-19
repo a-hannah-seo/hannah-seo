@@ -2,8 +2,6 @@
 
 // Define defaults for each variable.
 
-@import "ahs/form", "ahs/articles", "ahs/poems";
-
 @font-face {
   font-family: "Playfair";
   src: url("../assets/fonts/playfair-display.ttf");
@@ -12,11 +10,6 @@
 @font-face {
   font-family: "PlayfairItalic";
   src: url("../assets/fonts/playfair-display-italic.ttf");
-}
-
-@font-face {
-  font-family: "SairaLight";
-  src: url("../assets/fonts/saira-light.ttf");
 }
 
 @font-face {
@@ -72,3 +65,6 @@ $on-laptop:        1200px !default;
   "minima/layout",
   "minima/syntax-highlighting"
 ;
+
+// Import custom CSS
+@import "custom"

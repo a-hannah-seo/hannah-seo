@@ -1,0 +1,21 @@
+// minima theme overrides
+@import
+  "nav"
+;
+
+// content specific
+@import
+  "ahs/main", 
+  "ahs/form", 
+  "ahs/articles", 
+  "ahs/poems"
+;
+
+body {
+  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+}
+
+h1, h2, h3, h4, h5, h6,
+header {
+  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $header-font-family;
+}

@@ -1,0 +1,20 @@
+// overrides of nav-related bits in minima/_layout.scss
+
+.site-nav {
+  @include media-query($on-palm) {
+    position: absolute;
+
+    label[for="nav-trigger"] {
+      position: relative;
+    }
+
+    .trigger {
+      position: relative;
+      z-index: 999;
+
+      .page-link {
+        background: $background-color;
+      }
+    }
+  }
+}
