@@ -15,7 +15,7 @@ priority: 3
     <ul>
       {% for clip in site.data.clips %}
         <li class="boom">
-          {{ clip.role }} on <u>{{ clip.title }}</u>, for <a href="{{ clip.link }}">{{ clip.publication }}</a>
+          {{ clip.role }} on <u title="{{ clip.blurb }}">{{ clip.title }}</u>, for <a href="{{ clip.link }}">{{ clip.publication }}</a>
         </li>
       {% endfor %}
     </ul>
