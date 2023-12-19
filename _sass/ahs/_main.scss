@@ -21,3 +21,46 @@ body {
   max-width: 20rem;
 }
 
+.article-box {
+  display: flex;
+  flex-flow: column nowrap;
+  gap: 1rem;
+}
+
+.article {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+.article-image {
+  opacity: 0.3;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: auto;
+}
+
+.article-pub {
+  position: relative;
+  margin-top: .75rem;
+}
+
+.article-text {
+  position: relative;
+  margin: .75rem 0 .75rem 0;
+  display: flex;
+  align-content: flex-end;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.article-highlight {
+  display: inline-block;
+  padding: 0 1rem;
+  background: white;
+}
+

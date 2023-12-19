@@ -3,12 +3,19 @@ layout: page
 title: Journalism
 permalink: /journalism/
 priority: 1
-
-articles:
-  one:
-    title: its a name
-    link: google.com
-
 ---
 
-some articles
+
+<div class="article-box">
+  {% for article in site.data.articles %}
+    <div class="article">
+      <img class="article-image" src="{{ article.image }}"/>
+      <div class="article-text">
+        <p><span class="article-highlight"> "{{ article.title }}" </span></p>
+        <p><span class="article-highlight"> {{ article.blurb }} </span></p>
+        <p><span class="article-highlight"><i><a href="{{ article.link }}"> {{ article.publication }} </a></i></span></p>
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
