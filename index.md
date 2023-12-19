@@ -4,7 +4,7 @@ photo_url: https://static.wixstatic.com/media/b48ef4_8c8afe0885bd4f9ea6fb6f7550e
 ---
 
 <div class="row">
-  <div class="column headshot">
+  <div class="column left-rail">
     <img src="{{ page.photo_url }}" />
   </div>
   <div class="column">
