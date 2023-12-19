@@ -1,0 +1,42 @@
+$title-font: Playfair;
+
+.poem-box {
+  display: flex;
+  flex-flow: row wrap;
+  gap: 1rem;
+}
+
+.poem {
+  width: 23rem;
+  overflow: hidden;
+  position: relative;
+}
+
+.poem-image {
+  object-fit: cover;
+  opacity: 0.5;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: auto;
+  height: 100%;
+}
+
+.poem-text {
+  position: relative;
+  margin: 5rem 0 5rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.poem-title {
+  font-family: $title-font;
+}
+
+.poem-highlight {
+  display: inline-block;
+  margin: .5rem;
+  padding: 0 1rem;
+  background: white;
+}
