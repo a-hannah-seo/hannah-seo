@@ -1,6 +1,7 @@
 ---
 layout: home
 photo_url: https://static.wixstatic.com/media/b48ef4_8c8afe0885bd4f9ea6fb6f7550e2ef52~mv2.jpg/v1/crop/x_0,y_997,w_2432,h_3029/fill/w_844,h_1042,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/IMG_9650.jpg
+photo_alt_text: A Korean-Canadian woman looks off the the right, leaning over a boat's railing, a canvas tote slung over her shoulder. In the distance, the New York City skyline is visible.
 ---
 
 <h1>
@@ -11,7 +12,7 @@ photo_url: https://static.wixstatic.com/media/b48ef4_8c8afe0885bd4f9ea6fb6f7550e
 
 <div class="row">
   <div class="column left-rail">
-    <img src="{{ page.photo_url }}" />
+    <img src="{{ page.photo_url }}" alt="{{ page.photo_alt_text }}"/>
   </div>
   <div class="column">
     <p>

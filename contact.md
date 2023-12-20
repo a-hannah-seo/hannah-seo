@@ -12,24 +12,24 @@ priority: 4
     </h3>
   </div>
   <div class="column">
-    <form name="contact" netlify-honeypot="b0tz" action="/thanks.html" netlify>
+    <form id="contact" netlify-honeypot="b0tz" action="/thanks.html" netlify>
       <div class="row">
         <div class="column">
           <label for="name">Name</label>
-          <input type="text" name="name" required />
+          <input type="text" id="name" required />
         </div>
         <div class="column">
           <label for="email">Email</label>
-          <input type="email" name="email" required />
+          <input type="email" id="email" required />
         </div>
       </div>
       <div class="row">
         <div class="column">
           <label for="subject">Subject</label>
-          <input type="text" name="subject" />
-          <p style="display:none;"><label><input name="b0tz"></label></p>
+          <input type="text" id="subject" />
+          <p style="display:none;"><label><input id="b0tz"></label></p>
           <label for="message">Message</label>
-          <textarea name="message" rows="8" required></textarea>
+          <textarea id="message" rows="8" required></textarea>
           <p><button type="submit">Send</button></p>
         </div>
       </div>
