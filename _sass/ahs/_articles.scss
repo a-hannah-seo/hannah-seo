@@ -15,9 +15,10 @@
   opacity: 0.3;
   position: absolute;
   left: 0;
-  top: 0;
+  top: -50%;
   width: 100%;
-  height: auto;
+  height: -webkit-fill-available;
+  object-fit: cover;
 }
 
 .article-title {
