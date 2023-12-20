@@ -2,20 +2,7 @@
 
 // Define defaults for each variable.
 
-@font-face {
-  font-family: "Playfair";
-  src: url("../assets/fonts/playfair-display.ttf");
-}
-
-@font-face {
-  font-family: "PlayfairItalic";
-  src: url("../assets/fonts/playfair-display-italic.ttf");
-}
-
-@font-face {
-  font-family: "Dosis";
-  src: url("../assets/fonts/dosis.ttf");
-}
+@import "fonts";
 
 $header-font-family: Playfair !default;
 $base-font-family: Dosis !default;
@@ -36,29 +23,6 @@ $grey-color-dark:  darken($grey-color, 25%) !default;
 
 $table-text-align: left !default;
 
-// Width of the content area
-$content-width:    1200px !default;
-
-$on-palm:          600px !default;
-$on-laptop:        1200px !default;
-
-// Use media queries like this:
-// @include media-query($on-palm) {
-//   .wrapper {
-//     padding-right: $spacing-unit / 2;
-//     padding-left: $spacing-unit / 2;
-//   }
-// }
-@mixin media-query($device) {
-  @media screen and (max-width: $device) {
-    @content;
-  }
-}
-
-@mixin relative-font-size($ratio) {
-  font-size: $base-font-size * $ratio;
-}
-
 // Import partials.
 @import
   "minima/base",
@@ -67,4 +31,4 @@ $on-laptop:        1200px !default;
 ;
 
 // Import custom CSS
-@import "custom"
+@import "custom";

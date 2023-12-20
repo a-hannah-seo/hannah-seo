@@ -1,0 +1,40 @@
+
+@font-face {
+  font-family: "Playfair";
+  src: url("../assets/fonts/playfair-display-medium.ttf");
+}
+
+@font-face {
+  font-family: "PlayfairItalic";
+  src: url("../assets/fonts/playfair-display-mediumitalic.ttf");
+}
+
+@font-face {
+  font-family: "Dosis";
+  src: url("../assets/fonts/dosis.ttf");
+}
+
+
+// Width of the content area
+$content-width:    1200px !default;
+
+$on-palm:          600px !default;
+$on-laptop:        1200px !default;
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//   .wrapper {
+//     padding-right: $spacing-unit / 2;
+//     padding-left: $spacing-unit / 2;
+//   }
+// }
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+@mixin relative-font-size($ratio) {
+  font-size: $base-font-size * $ratio;
+}
+
