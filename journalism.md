@@ -9,7 +9,7 @@ priority: 1
 <div class="article-box">
   {% for article in site.data.articles %}
     <div class="article">
-      <img class="article-image" src="{{ article.image }}"/>
+      <img class="article-image" src="{{ article.image }}" alt="background image for publication link"/>
       <div class="article-text">
         <p><span class="article-highlight article-title"> "{{ article.title }}" </span></p>
         <p><span class="article-highlight"> {{ article.blurb }} </span></p>

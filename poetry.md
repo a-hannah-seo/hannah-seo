@@ -8,7 +8,7 @@ priority: 2
 <div class="poem-box">
   {% for poem in site.data.poems %}
     <div class="poem">
-      <img class="poem-image" src="{{ poem.image }}"/>
+      <img class="poem-image" src="{{ poem.image }}" alt="background image for poem text"/>
       <div class="poem-text">
         <p><span class="poem-highlight poem-title"> {{ poem.title }} </span></p>
         <p><span class="poem-highlight"> {{ poem.blurb }} </span></p>
