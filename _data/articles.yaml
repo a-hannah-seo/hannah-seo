@@ -33,10 +33,10 @@
   image: "/assets/images/articles/heat.webp"
   alt-text: "An illustration of a massive ball with an orange-yellow gradient sitting atop a person lying prone on bottom of the frame"
 
-- title: What Can Hypnosis Do for Your Health?
-  publication: The New York Times
-  blurb: This 200-year-old treatment can be effective for a variety of conditions, but it does take work.
-  link: https://www.nytimes.com/2023/02/08/well/mind/hypnosis-therapy-mental-health-depression.html
+- title: "What Can Hypnosis Do for Your Health?"
+  publication: "The New York Times"
+  blurb: "This 200-year-old treatment can be effective for a variety of conditions, but it does take work."
+  link: "https://www.nytimes.com/2023/02/08/well/mind/hypnosis-therapy-mental-health-depression.html"
   image: "/assets/images/articles/hypno.webp"
   alt-text: "An illustration of a figure's head reflected left-right, with swirling hypnotic circles in between"
 
