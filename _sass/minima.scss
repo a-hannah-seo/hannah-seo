@@ -1,9 +1,6 @@
 @charset "utf-8";
 
-// Define defaults for each variable.
-
 @import "fonts";
-
 $header-font-family: Playfair !default;
 $base-font-family: Dosis !default;
 $base-font-size:   20px !default;
@@ -30,5 +27,5 @@ $table-text-align: left !default;
   "minima/syntax-highlighting"
 ;
 
-// Import custom CSS
+// Import custom CSS partials
 @import "custom";

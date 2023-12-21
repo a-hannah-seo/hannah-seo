@@ -3,12 +3,16 @@ layout: page
 title: Contact
 permalink: /contact/
 priority: 4
+
+twitter_username: ahannahseo
+bluesky_username: hannahseo.com
+instagram_username: ahannahseo
 ---
 
 <div class="row">
   <div class="column left-rail">
     <h3>
-      Find Hannah on <a href="https://twitter.com/{{ site.twitter_username }}">Twitter</a>, <a href="https://bsky.app/profile/{{ site.bluesky_username }}">Bluesky</a>, and <a href="https://www.instagram.com/{{ site.instagram_username }}">Instagram</a>.
+      Find Hannah on <a href="https://twitter.com/{{ page.twitter_username }}">Twitter</a>, <a href="https://bsky.app/profile/{{ page.bluesky_username }}">Bluesky</a>, and <a href="https://www.instagram.com/{{ page.instagram_username }}">Instagram</a>.
     </h3>
   </div>
   <div class="column">
