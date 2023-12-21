@@ -32,7 +32,9 @@ instagram_username: ahannahseo
 
 # Build settings
 theme: minima
-# plugins:
+
+plugins:
+  - jekyll-sitemap
   # - jekyll-feed
 
 # Exclude from processing.
