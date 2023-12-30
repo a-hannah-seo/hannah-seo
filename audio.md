@@ -3,22 +3,30 @@ layout: page
 title: Audio
 permalink: /audio/
 priority: 3
+supported_roles: [appearances, credits]
 ---
 
-<div class="row">
-  <div class="column left-rail">
-    <h3>
-      🎤🎙📻
-    </h3>
-  </div>
-  <div class="column">
-    <ul>
-      {% for clip in site.data.clips %}
-        <li class="boom">
-          {{ clip.role }} on <u title="{{ clip.blurb }}">{{ clip.title }}</u>, for <a href="{{ clip.link }}">{{ clip.publication }}</a>
-        </li>
+{% for role in page.supported_roles %}
+  {% assign clips = site.data.audio | where: "role", role %}
+  <div class="row pad-bottom">
+    <div class="column left-rail">
+      <h3>
+        {{ role }}
+      </h3>
+    </div>
+    <div class="column">
+      {% for clip in clips %}
+      <div>
+        <a href="{{ clip.link }}"><u>{{ clip.title }}</u></a>
+        <br/>
+        <i>{{ clip.credit }} for {{ clip.publication }}, {{ clip.date }}</i>
+        <ul>
+          <li class="boom">
+            {{ clip.blurb }}
+          </li>
+        </ul>
+      </div>
       {% endfor %}
-    </ul>
-
-</div>
-
+    </div>
+  </div>
+{% endfor %}
