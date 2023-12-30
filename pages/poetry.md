@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Poetry
-permalink: /poetry/
+permalink: /poetry
 priority: 2
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Journalism
-permalink: /journalism/
+permalink: /journalism
 priority: 1
 ---
 

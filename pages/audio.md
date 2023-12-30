@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Audio
-permalink: /audio/
+permalink: /audio
 priority: 3
 supported_roles: [appearances, credits]
 ---

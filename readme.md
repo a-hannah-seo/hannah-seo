@@ -8,13 +8,13 @@ the top-level pages consist of a `.md` or `.html` template. the former is fed by
 
 | page | file/template | template data source | notes |
 |---|---|---|---|
-| / | `index.md` || top level homepage
-| /audio | `audio.md` | `_data/clips.yml` |
-| /contact | `contact.md`  || contact form, powered by Netlify
-| /journalism | `journalism.md` | `_data/articles.yml`
-| /poetry | `poetry.md` | `_data/poems.yml`
-| /thanks | `thanks.html` || contact form's post-submit landing page
-| /* | `404.html` || 404 page
+| / | `/index.md` || top level homepage
+| /audio | `/pages/audio.md` | `_data/clips.yml` |
+| /contact | `/pages/contact.md`  || contact form, powered by Netlify
+| /journalism | `/pages/journalism.md` | `_data/articles.yml`
+| /poetry | `/pages/poetry.md` | `_data/poems.yml`
+| /thanks | `/pages/thanks.html` || contact form's post-submit landing page
+| /* | `/404.html` || 404 page
 
 # making changes
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /contact/
+permalink: /contact
 priority: 4
 
 twitter_username: ahannahseo
