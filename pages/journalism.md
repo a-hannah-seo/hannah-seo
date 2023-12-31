@@ -6,7 +6,7 @@ priority: 1
 ---
 
 
-<div class="article-box">
+<div class="article-box pad-top">
   {% for article in site.data.articles %}
     <div class="article">
       <img class="article-image" src="{{ article.image }}" alt="{{ article.alt-text }}"/>

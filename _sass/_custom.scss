@@ -16,8 +16,8 @@
   "fades"
 ;
 
-.pad-bottom {
-  padding-bottom: 3rem;
+.pad-top {
+  padding-top: 2rem;
 }
 
 body {
@@ -34,5 +34,17 @@ h1 {
 
   @include media-query($on-palm) {
     font-size: xx-large;
+  }
+}
+
+// override: get rid of borders
+.site-header {
+  border: 0;
+}
+.site-footer {
+  border: 0;
+
+  @include media-query($on-palm) {
+    text-align: right;
   }
 }

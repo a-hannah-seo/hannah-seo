@@ -3,6 +3,7 @@
 .site-nav {
   @include media-query($on-palm) {
     position: absolute;
+    border: 0;
 
     label[for="nav-trigger"] {
       position: relative;
@@ -19,6 +20,15 @@
   }
 }
 
+.site-header {
+  border: 0;
+}
+
 .site-footer {
-  padding: 6rem 0 2rem 0;
+  padding: 5rem 0 2rem 0;
+  border: 0;
+
+  @include media-query($on-palm) {
+    text-align: right;
+  }
 }

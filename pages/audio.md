@@ -5,10 +5,10 @@ permalink: /audio
 priority: 3
 supported_roles: [appearances, credits]
 ---
-
+<div>
 {% for role in page.supported_roles %}
   {% assign clips = site.data.audio | where: "role", role %}
-  <div class="row pad-bottom">
+  <div class="row pad-top">
     <div class="column left-rail">
       <h3>
         {{ role }}
@@ -30,3 +30,4 @@ supported_roles: [appearances, credits]
     </div>
   </div>
 {% endfor %}
+</div>

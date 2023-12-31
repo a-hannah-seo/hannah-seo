@@ -5,7 +5,7 @@ permalink: /poetry
 priority: 2
 ---
 
-<div class="poem-box">
+<div class="poem-box pad-top">
   {% for poem in site.data.poems %}
     <div class="poem">
       <img class="poem-image" src="{{ poem.image }}" alt="{{ poem.alt-text }}"/>

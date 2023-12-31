@@ -4,13 +4,15 @@ photo_url: https://static.wixstatic.com/media/b48ef4_8c8afe0885bd4f9ea6fb6f7550e
 photo_alt_text: A Korean-Canadian woman looks off the the right, leaning over a boat's railing, a canvas tote slung over her shoulder. In the distance, the New York City skyline is visible.
 ---
 
-<h1>
-  Hannah Seo is a Korean-Canadian freelance journalist, writer, editor, fact-checker and poet based in Brooklyn, New York.
-</h1>
-
-<p></p>
-
 <div class="row">
+  <div class="column">
+    <h1>
+      Hannah Seo is a Korean-Canadian freelance journalist, writer, editor, fact-checker and poet based in Brooklyn, New York.
+    </h1>
+  </div>
+</div>
+
+<div class="row pad-top">
   <div class="column left-rail">
     <img src="{{ page.photo_url }}" alt="{{ page.photo_alt_text }}"/>
   </div>
