@@ -1,0 +1,7 @@
+# ♡ヾ(´｡• ◡ •｡`)ツ 
+# calvin wuz here
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.hannahseo.com/sitemap.xml
