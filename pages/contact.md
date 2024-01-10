@@ -16,7 +16,7 @@ instagram_username: ahannahseo
     </h3>
   </div>
   <div class="column">
-    <form id="contact" name="contact" action="/thanks.html" netlify netlify-honeypot="b0tz">
+    <form id="contact" name="contact" action="/thanks.html" netlify>
       <div class="row">
         <div class="column">
           <label for="name">Name</label>
