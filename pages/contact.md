@@ -12,7 +12,7 @@ instagram_username: ahannahseo
 <div class="row pad-top">
   <div class="column left-rail">
     <h3>
-      Find Hannah on <a href="https://twitter.com/{{ page.twitter_username }}">Twitter</a>, <a href="https://bsky.app/profile/{{ page.bluesky_username }}">Bluesky</a>, and <a href="https://www.instagram.com/{{ page.instagram_username }}">Instagram</a>.
+      Find Hannah on <a href="https://twitter.com/{{ page.twitter_username }}">Twitter</a>, <a href="https://bsky.app/profile/{{ page.bluesky_username }}">Bluesky</a>, and <a href="https://collageclub.substack.com">Collage Club</a>.
     </h3>
   </div>
   <div class="column">

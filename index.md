@@ -24,7 +24,10 @@ photo_alt_text: A Korean-Canadian woman looks off the the right, leaning over a 
       Her journalism can be found in <a href="https://www.theatlantic.com/health/archive/2023/11/nature-avoidance-social-isolation-loneliness/675984/">The Atlantic</a>, <a href="https://www.vox.com/even-better/23943426/anti-gatekeeping-invitations-parties-guests-strangers-old-friends">Vox</a>, <a href="https://www.scientificamerican.com/author/hannah-seo/">Scientific American</a>, <a href="https://www.theguardian.com/profile/hannah-seo">The Guardian</a>, and <a href="https://catapult.co/stories/hannah-seo-memory-formation-prediction-neuroscience">Catapult (RIP)</a>, among others. Common topics of interest include neuroscience/psychology, ocean ecology, the intersection of climate and mental health, and social science. 
     </p>
     <p>
-      When not reporting, she immerses herself in crafting essays and poetry. Her works have been featured in publications like <a href="https://newlimestonereview.as.uky.edu/2019/09/01/ouroboros/">The New Limestone Review</a>, <a href="https://portlandreview.org/three-poems-of-separation/">Portland Review</a>, <a href="https://www.barzakhmag.net/spring-2020-poetry/2020/6/28/hannah-seo">Barzakh Magazine</a>, and <a href="https://www.broadkillreview.com/post/25-by-hannah-seo">The Broadkill Review</a>. Currently, she is working on her first collection after her time in the Brooklyn Poets Mentorship Program.
+      When not reporting, she immerses herself in crafting essays and poetry. Her works have been featured in publications like <a href="https://newlimestonereview.as.uky.edu/2019/09/01/ouroboros/">The New Limestone Review</a>, <a href="https://portlandreview.org/three-poems-of-separation/">Portland Review</a>, and <a href="https://www.barzakhmag.net/spring-2020-poetry/2020/6/28/hannah-seo">Barzakh Magazine</a>. Currently, she is working on her first collection after her time in the Brooklyn Poets Mentorship Program.
+    </p>
+    <p>
+      She also co-runs a monthly <a href="https://collageclub.substack.com">Collage Club</a>.
     </p>
     <p>
       Hannah is available for writing, editing, and fact-checking. <a href="/contact"><u>Get in touch</u></a>.
