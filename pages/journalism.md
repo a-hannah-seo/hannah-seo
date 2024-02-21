@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Journalism
+title: Journalism (select clips)
 permalink: /journalism
 priority: 1
 ---
