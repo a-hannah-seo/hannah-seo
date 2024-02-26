@@ -5,6 +5,13 @@
   image: "/assets/images/articles/biophobia.webp"
   alt-text: "An elderly couple walks away from the camera, amid lush foliage of a public park"
 
+- title: "The Lady Gaga Ferns Are Losing Their Home. It’s Surprisingly Tragic for Science and Society."
+  publication: "Atmos Magazine"
+  blurb: "Duke University is closing its century-old herbarium—a legendary plant collection and training ground—to the outcry of many."
+  link: "https://atmos.earth/duke-university-is-evicting-the-lady-gaga-ferns/"
+  image: "assets/images/articles/Lady Gaga Ferns Tragic.jpeg"
+  alt-text: "a fern specimen"
+
 - title: Stop Calling It 'Climate Anxiety.' It's Climate Dread.
   publication: The New Republic
   blurb: The phrase “climate dread” better legitimizes the real and tangible threat coming toward us.
@@ -12,6 +19,20 @@
   image: "/assets/images/articles/dread.webp"
   alt-text: "An orange-saturated grim landscape of skeletal trees"
 
+- title: How Heat Waves Take a Toll on Mental Health
+  publication: The New York Times
+  blurb: Extreme heat can influence mood and raise the likelihood of a more serious mental health issue. Here’s what to know.
+  link: https://www.nytimes.com/2022/08/19/well/mind/heat-mental-health.html
+  image: "/assets/images/articles/heat.webp"
+  alt-text: "An illustration of a massive ball with an orange-yellow gradient sitting atop a person lying prone on bottom of the frame"
+
+- title: The case for inviting everyone to everything
+  publication: Vox
+  blurb: In a time when loneliness is more pervasive than ever, why not extend an invitation?
+  link: https://www.vox.com/even-better/23943426/anti-gatekeeping-invitations-parties-guests-strangers-old-friends
+  image: "/assets/images/articles/loneliness.webp"
+  alt-text: "A mosaic of illustrated faces"
+  
 - title: "Jeopardy! Winner Reveals Entwined Memory Systems Make a Trivia Champion"
   publication: "Scientific American"
   blurb: "A former Jeopardy! winner led a new study that probes how linked memory systems may give trivia buffs an edge in their game."
@@ -25,20 +46,6 @@
   link: "https://www.theguardian.com/wellness/2023/dec/18/likability-women-people-of-color-gender-bias"
   image: "/assets/images/articles/Screenshot 2024-02-21 at 3.07.08 PM.png"
   alt-text: "The word 'likable' is written in blue and scratched out"
-
-- title: The case for inviting everyone to everything
-  publication: Vox
-  blurb: In a time when loneliness is more pervasive than ever, why not extend an invitation?
-  link: https://www.vox.com/even-better/23943426/anti-gatekeeping-invitations-parties-guests-strangers-old-friends
-  image: "/assets/images/articles/loneliness.webp"
-  alt-text: "A mosaic of illustrated faces"
-
-- title: How Heat Waves Take a Toll on Mental Health
-  publication: The New York Times
-  blurb: Extreme heat can influence mood and raise the likelihood of a more serious mental health issue. Here’s what to know.
-  link: https://www.nytimes.com/2022/08/19/well/mind/heat-mental-health.html
-  image: "/assets/images/articles/heat.webp"
-  alt-text: "An illustration of a massive ball with an orange-yellow gradient sitting atop a person lying prone on bottom of the frame"
 
 - title: "What Can Hypnosis Do for Your Health?"
   publication: "The New York Times"
