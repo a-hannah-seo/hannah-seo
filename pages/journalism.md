@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Journalism
+heading: Selected Works
 permalink: /journalism
 priority: 1
 ---
