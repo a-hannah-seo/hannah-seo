@@ -1,6 +1,11 @@
 ########
 # 2024 #
 
+- title: "Food waste in landfills: What you need to know"
+  publication: "One5C"
+  link: "https://one5c.com/food-waste-landfills-136944213/"
+  year: 2024
+  
 - title: "The Lady Gaga Ferns Are Losing Their Home. It’s Surprisingly Tragic for Science and Society."
   publication: "Atmos Magazine"
   link: "https://atmos.earth/duke-university-is-evicting-the-lady-gaga-ferns/"
@@ -11,35 +16,48 @@
   link: "https://www.scientificamerican.com/article/jeopardy-winner-reveals-entwined-memory-systems-make-a-trivia-champion/"
   year: 2024
 
-- title: "What Can Hypnosis Do for Your Health?"
-  publication: "The New York Times"
-  link: "https://www.nytimes.com/2023/02/08/well/mind/hypnosis-therapy-mental-health-depression.html"
+- title: "Not Enough Emojis"
+  publication: "Scholastic/Science World"
+  link: "https://scienceworld.scholastic.com/"
   year: 2024
+
+- title: "Snack-Stealing Seagulls"
+  publication: "Scholastic/Science World"
+  link: "https://scienceworld.scholastic.com/"
+  year: 2024
+
 
 ########
 # 2023 #
+
+- title: "What does it mean to be likable – and who has to abide by those rules?"
+  publication: "The Guardian"
+  link: "https://www.theguardian.com/wellness/2023/dec/18/likability-women-people-of-color-gender-bias"
+  year: 2023
+  
+- title: "Why is plastic bad for the environment?"
+  publication: "One5C"
+  link: "https://one5c.com/why-plastic-bad-environment-136931506/"
+  year: 2023
+
+- title: "This climate tech startup is reducing emissions—by feeding seaweed to cattle"
+  publication: "Quartz"
+  link: "https://qz.com/sea-forest-seaweed-methane-emissions-1851095842"
+  year: 2023
+
+- title: "This femtech startup is unleashing AI on fetal ultrasounds"
+  publication: "Quartz"
+  link: "https://qz.com/fetal-ultrasounds-ai-sonio-1851094494"
+  year: 2023
 
 - title: "America Is Getting Lonelier and More Indoorsy. That’s Not a Coincidence."
   publication: The Atlantic
   link: https://www.theatlantic.com/health/archive/2023/11/nature-avoidance-social-isolation-loneliness/675984/
   year: 2023
-
-- title: "Stop Calling It 'Climate Anxiety.' It's Climate Dread."
-  publication: The New Republic
-  link: https://newrepublic.com/article/174710/stop-calling-climate-anxiety-its-climate-dread
-  year: 2023
-
+  
 - title: "The case for inviting everyone to everything"
   publication: Vox
   link: https://www.vox.com/even-better/23943426/anti-gatekeeping-invitations-parties-guests-strangers-old-friends
-  year: 2023
-- title: "What does it mean to be likable – and who has to abide by those rules?"
-  publication: "The Guardian"
-  link: "https://www.theguardian.com/wellness/2023/dec/18/likability-women-people-of-color-gender-bias"
-  year: 2023
-- title: "How to Stop Ruminating"
-  publication: The New York Times
-  link: https://www.nytimes.com/2023/02/01/well/mind/stop-rumination-worry.html
   year: 2023
 
 - title: "Why some people don’t feel the buzz of caffeine"
@@ -47,10 +65,176 @@
   link: https://www.washingtonpost.com/wellness/2023/10/10/caffeine-sensitivity-coffee-heart-genes/
   year: 2023
 
+- title: "Light Pollution Is Causing Oyster Insomnia"
+  publication: "Hakai Magazine'
+  link: "https://hakaimagazine.com/news/light-pollution-is-causing-oyster-insomnia/"
+  year: 2023
+
+- title: "Stop Calling It 'Climate Anxiety.' It's Climate Dread."
+  publication: The New Republic
+  link: https://newrepublic.com/article/174710/stop-calling-climate-anxiety-its-climate-dread
+  year: 2023
+
+- title: "How Many Hours of Sleep Do You Need to Be Productive?"
+  publication: "Outside Magazine"
+  link: "https://www.outsideonline.com/health/wellness/how-many-hours-of-sleep-do-you-need-to-be-productive/"
+  year: 2023
+
+- title: "What to Know About Seasonal Depression"
+  publication: "The New York Times"
+  link: "https://www.nytimes.com/article/seasonal-depression-what-to-know.html"
+  year: 2023
+
+- title: "Can You Survive Summer?"
+  publication: "The New York Times"
+  link: "https://www.nytimes.com/interactive/2023/06/02/well/live/summer-risks-quiz.html"
+  year: 2023
+
+- title: "How a Cardiologist Keeps His Heart Healthy"
+  publication: "The New York Times"
+  link: "https://www.nytimes.com/interactive/2023/05/29/well/heart-health-tips.html"
+  year: 2023
+
+- title: "Are There Any Benefits to Tongue Scraping?"
+  publication: "The New York Times"
+  link: "https://www.nytimes.com/2023/05/16/well/live/tongue-scraping-benefits.html"
+  year: 2023
+
+- title: "The Best and Worst Habits for Eyesight"
+  publication: "The New York Times"
+  link: "https://www.nytimes.com/2023/05/15/well/live/eyesight-vision-habits.html"
+  year: 2023
+
+- title: "How a Gastroenterologist Cares for Her Gut"
+  publication: "The New York Times"
+  link: "https://www.nytimes.com/interactive/2023/05/01/well/eat/gut-health-tips.html"
+  year: 2023
+
+- title: "Why Do Some People Develop Allergies in Adulthood?"
+  publication: "The New York Times"
+  link: "https://www.nytimes.com/2023/04/19/well/adult-allergies.html"
+  year: 2023
+
+- title: "Why Does My Neck Look So Much Older Than My Face?"
+  publication: "The New York Times"
+  link: "https://www.nytimes.com/2023/04/11/well/live/aging-neck-face-skin.html"
+  year: 2023
+
+- title: "Is It a Cold, or Is It Allergies?"
+  publication: "The New York Times"
+  link: "https://www.nytimes.com/article/cold-allergy-symptoms.html"
+  year: 2023
+
+- title: "Why Oral Hygiene Is Crucial to Your Overall Health"
+  publication: "The New York Times"
+  link: "https://www.nytimes.com/2023/04/06/well/oral-health-hygiene.html"
+  year: 2023
+
+- title: "Power Your Run With Better Breathing"
+  publication: "The New York Times"
+  link: "https://www.nytimes.com/2023/03/29/well/move/run-diaphragmatic-breathing.html"
+  year: 2023
+
+- title: "How an Allergist Gets Through Allergy Season"
+  publication: "The New York Times"
+  link: "https://www.nytimes.com/interactive/2023/03/23/well/live/spring-allergy-tips.html"
+  year: 2023
+
+- title: "Are Allergies Making Me Tired?"
+  publication: "The New York Times"
+  link: "https://www.nytimes.com/2023/03/14/well/live/allergy-fatigue-symptoms.html"
+  year: 2023
+  
+- title: "What Can Hypnosis Do for Your Health?"
+  publication: "The New York Times"
+  link: "https://www.nytimes.com/2023/02/08/well/mind/hypnosis-therapy-mental-health-depression.html"
+  year: 2023
+
+- title: "How to Stop Ruminating"
+  publication: The New York Times
+  link: https://www.nytimes.com/2023/02/01/well/mind/stop-rumination-worry.html
+  year: 2023
+
+- title: "How a Personal Trainer Plans His Workouts?"
+  publication: "The New York Times"
+  link: "https://www.nytimes.com/interactive/2023/01/26/well/move/personal-trainer-workout-tips.html"
+  year: 2023
+
+- title: "Is This Cooking Oil Actually Healthy?"
+  publication: "The New York Times"
+  link: "https://www.nytimes.com/interactive/2023/01/21/well/eat/healthy-cooking-oils.html"
+  year: 2023
+  
+
 
 ########
 # 2022 #
 
+- title: "Small Steps to Improve Your Mental Health in 2023"
+  publication: The New York Times
+  link: "https://www.nytimes.com/2022/12/26/well/mind/mental-health-advice-2023.html"
+  year: 2022
+
+- title: "How a Therapist Manages Her Stress"
+  publication: The New York Times
+  link: "https://www.nytimes.com/interactive/2022/12/19/well/mind/therapist-stress-relief-tips.html"
+  year: 2022
+
+- title: "How Important Is Stretching, Really?"
+  publication: The New York Times
+  link: "https://www.nytimes.com/2022/12/15/well/move/stretching-exercise-workout.html"
+  year: 2022
+
+- title: "How to Actually Enjoy the Holidays"
+  publication: The New York Times
+  link: "https://www.nytimes.com/interactive/2022/12/07/well/mind/holiday-stress.html"
+  year: 2022
+
+- title: "What Are Whole Grains, Anyway?"
+  publication: The New York Times
+  link: "https://www.nytimes.com/2022/12/03/well/eat/whole-grains.html"
+  year: 2022
+
+- title: "How a Running Expert Keeps on Running"
+  publication: The New York Times
+  link: "https://www.nytimes.com/interactive/2022/11/23/well/move/exercise-scientist-running-motivation-tips.html"
+  year: 2022
+
+- title: "Sugar Alcohols Are in Many Sugar-Free Foods. What Are They?"
+  publication: The New York Times
+  link: "https://www.nytimes.com/2022/11/15/well/eat/sugar-alcohols.html"
+  year: 2022
+
+- title: "Is This Vegetable Healthier Raw or Cooked?"
+  publication: The New York Times
+  link: "https://www.nytimes.com/interactive/2022/11/10/well/eat/vegetable-healthy-raw-cooked.html"
+  year: 2022
+
+- title: "Is It Better to Brush Your Teeth Before Breakfast or After?"
+  publication: The New York Times
+  link: "https://www.nytimes.com/2022/11/01/well/live/brushing-teeth-breakfast.html"
+  year: 2022
+
+- title: "How to Boost Your Immune System During Cold and Flu Season"
+  publication: The New York Times
+  link: "https://www.nytimes.com/2022/10/14/well/live/cold-flu-immune-system.html"
+  year: 2022
+
+- title: "Is It Safe to Whiten Your Teeth? And if So, What Works?"
+  publication: The New York Times
+  link: "https://www.nytimes.com/2022/10/03/well/live/teeth-whitening-safety.html"
+  year: 2022
+
+- title: "Dry Brushing, Body Scraping, Gua Sha: Lymphatic Health Is All the Rage"
+  publication: The New York Times
+  link: "https://www.nytimes.com/2022/09/12/well/live/lymphatic-drainage-gua-sha.html"
+  year: 2022
+
+- title: "How Dentists Keep Their Own Teeth Healthy"
+  publication: The New York Times
+  link: "https://www.nytimes.com/interactive/2022/09/08/well/dentists-teeth-care.html"
+  year: 2022
+  
 - title: "How Heat Waves Take a Toll on Mental Health"
   publication: The New York Times
   link: https://www.nytimes.com/2022/08/19/well/mind/heat-mental-health.html
@@ -73,7 +257,7 @@
 
 - title: "How to Live With Covid When You Are Tired of Living With Covid"
   publication: The New York Times
-  link: https://www.nytimes.com/2022/07/25/well/live/covid-ba5-precautions.html
+  link: "https://www.nytimes.com/2022/07/25/well/live/covid-ba5-precautions.html"
   year: 2022
 
 ########
