@@ -23,8 +23,6 @@ priority: 1
 <br/>
 <div class="push-right">
   <p>
-    <!-- 
     <a href="{{ page.clips-link }}">See all clips here.</a> 
-    -->
   </p>
 </div>
