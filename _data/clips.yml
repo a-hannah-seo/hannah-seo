@@ -466,12 +466,25 @@
   link: "https://www.discovermagazine.com/planet-earth/the-dyatlov-pass-incident-can-science-explain-what-happened-to-the-hikers"
   year: 2021
 
+- title: "See the wonderful world of fermented foods on one delicious chart"
+  publication: "Popular Science (Print issue)"
+  link: "https://www.popsci.com/story/science/different-fermented-foods-chart/"
+  year: 2021
+
+- title: "Why you never forget how to ride a bike"
+  publication: "Popular Science (Print issue)"
+  link: "https://www.popsci.com/story/science/ride-a-bike-never-forget-neuroscience/"
+  year: 2021
+  
 - title: "Fish farming has a plastic problem"
   publication: "EHN"
   link: "https://www.ehn.org/plastic-in-farmed-fish-2650268080.html"
   year: 2021
 
-
+- title: "Local languages are dying out and taking invaluable knowledge with them"
+  publication: "Popular Science (Print issue)"
+  link: "https://www.popsci.com/story/science/why-save-dying-languages/"
+  year: 2021
 
 
 ########
@@ -506,6 +519,91 @@
 - title: "Long-banned toxics are still accumulating in Great Lakes birds—as new chemical threats emerge"
   publication: "EHN"
   link: "https://www.ehn.org/great-lakes-pollution-birds-2647732152.html"
+  year: 2020
+
+- title: "Mount Rainier’s first wolverine mama in a century is a sign of the species’ comeback"
+  publication: "Popular Science"
+  link: "https://www.popsci.com/story/science/wolverines-rainier-return/"
+  year: 2020
+
+- title: "Why scientific papers are growing increasingly inscrutable"
+  publication: "Popular Science"
+  link: "https://www.popsci.com/story/science/science-journals-acronyms-communication/"
+  year: 2020
+
+- title: "Gut bacteria might flip the effects of a common cancer-causing mutation in an unexpected way"
+  publication: "Popular Science"
+  link: "https://www.popsci.com/story/health/microbiome-colorectal-cancer-risk-p53/"
+  year: 2020
+
+- title: "Citizens of Mauritius are cleaning up a major oil spill themselves"
+  publication: "Popular Science"
+  link: "https://www.popsci.com/story/environment/mauritius-oil-spill/"
+  year: 2020
+
+- title: "Manmade pollutants could be harming marine mammals more than we think"
+  publication: "Popular Science"
+  link: "https://www.popsci.com/story/animals/ocean-pollution-harms-whales-dolphins/"
+  year: 2020
+
+- title: "The safest way to travel during the pandemic"
+  publication: "Popular Science"
+  link: "https://www.popsci.com/story/health/covid-travel-air-bus-train/"
+  year: 2020
+
+- title: "Clear masks help the hard of hearing, but they could benefit everybody"
+  publication: "Popular Science"
+  link: "https://www.popsci.com/story/health/clear-masks-options-accessibility/"
+  year: 2020
+
+- title: "Exploring the common misconceptions regarding trans and non-binary identities"
+  publication: "Popular Science"
+  link: "https://www.popsci.com/story/science/trans-myths-jk-rowling/"
+  year: 2020
+
+- title: "How to evacuate and find emergency shelter during a pandemic"
+  publication: "Popular Science"
+  link: "https://www.popsci.com/story/diy/evacuate-storm-disaster-during-pandemic/"
+  year: 2020
+
+- title: "Ticks that cause red meat allergies are spreading, and invasive fire ants may be our best hope"
+  publication: "Popular Science"
+  link: "https://www.popsci.com/story/science/lone-star-tick-fire-ant-meat-allergy/"
+  year: 2020
+
+- title: "These ultra-black fish camouflage with the darkness of the deep sea"
+  publication: "Popular Science"
+  link: "https://www.popsci.com/story/science/ultra-dark-deep-sea-fish/"
+  year: 2020
+
+- title: "This photographer chases the Midwest’s most dramatic storms. Here are some of his favorite shots."
+  publication: "Popular Science"
+  link: "https://www.popsci.com/story/science/weather-storms-photography/"
+  year: 2020
+
+- title: "Solving the medical mystery of a brain that sees numbers as spaghetti"
+  publication: "Popular Science"
+  link: "https://www.popsci.com/story/science/numbers-look-like-spaghetti/"
+  year: 2020
+
+- title: "LGBTQ+ alliance groups can have a positive effect on entire student populations"
+  publication: "Popular Science"
+  link: "https://www.popsci.com/story/health/lgbtq-teens-bully-alliance/"
+  year: 2020
+
+- title: "Trans people’s access to health care is imperiled, but a recent Supreme Court case might help"
+  publication: "Popular Science"
+  link: "https://www.popsci.com/story/health/lgbtq-trans-discrimination-case-rule/"
+  year: 2020
+
+- title: "Working from home can ravage your spine, but good posture can help fix it"
+  publication: "Popular Science"
+  link: "https://www.popsci.com/story/science/work-from-home-good-posture-spine/"
+  year: 2020
+
+- title: "Tear gas during COVID-19 is a public health disaster"
+  publication: "Popular Science"
+  link: "https://www.popsci.com/story/health/tear-gas-coronavirus/"
   year: 2020
 
 - title: "Meet the Young Doctor Leading Nepal's COVID-19 Testing Program"
