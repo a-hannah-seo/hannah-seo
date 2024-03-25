@@ -5,6 +5,16 @@
   publication: "One5C"
   link: "https://one5c.com/food-waste-landfills-136944213/"
   year: 2024
+
+- title: "What is chemical recycling"
+  publication: "EHN"
+  link: "https://www.ehn.org/what-is-chemical-recycling-2667366790.html"
+  year: 2024
+
+- title: "Why Scientists Are Mixing Wasabi and Ancient Papyrus"
+  publication: "Atlas Obscura"
+  link: "https://www.atlasobscura.com/articles/wasabi-preserves-papyrus"
+  year: 2024
   
 - title: "The Lady Gaga Ferns Are Losing Their Home. It’s Surprisingly Tragic for Science and Society."
   publication: "Atmos Magazine"
@@ -26,18 +36,39 @@
   link: "https://scienceworld.scholastic.com/"
   year: 2024
 
+- title: "Why Holes at the Bottom of the Ocean Disappear and Reappear"
+  publication: "Atlas Obscura"
+  link: "https://www.atlasobscura.com/articles/ocean-floor-holes-purposes-eels"
+  year: 2024
+  
 
 ########
 # 2023 #
 
+  
 - title: "What does it mean to be likable – and who has to abide by those rules?"
   publication: "The Guardian"
   link: "https://www.theguardian.com/wellness/2023/dec/18/likability-women-people-of-color-gender-bias"
+  year: 2023
+
+- title: "People May Speak More Loudly or Quietly Depending on the Climate"
+  publication: "Atlas Obscura"
+  link: "https://www.atlasobscura.com/articles/climate-affects-loud-languages"
   year: 2023
   
 - title: "Why is plastic bad for the environment?"
   publication: "One5C"
   link: "https://one5c.com/why-plastic-bad-environment-136931506/"
+  year: 2023
+
+- title: "Scented period products bring worrisome toxic exposures. Who’s most at risk?"
+  publication: "EHN"
+  link: "https://www.ehn.org/non-toxic-period-products-2666459274.html"
+  year: 2023
+
+- title: "These 10 scientists are on the cusp of changing the world"
+  publication: "Popular Science"
+  link: "https://www.popsci.com/science/brilliant-10-2023/"
   year: 2023
 
 - title: "This climate tech startup is reducing emissions—by feeding seaweed to cattle"
@@ -50,6 +81,16 @@
   link: "https://qz.com/fetal-ultrasounds-ai-sonio-1851094494"
   year: 2023
 
+- title: "Century-old buffalofish are still living in their prime"
+  publication: "Popular Science"
+  link: "https://www.popsci.com/environment/buffalofish-live-past-100/"
+  year: 2023
+
+- title: "Graphic warning labels might convince people to eat less meat"
+  publication: "Popular Science"
+  link: "https://www.popsci.com/environment/eat-less-meat-warning-labels/"
+  year: 2023
+
 - title: "America Is Getting Lonelier and More Indoorsy. That’s Not a Coincidence."
   publication: The Atlantic
   link: https://www.theatlantic.com/health/archive/2023/11/nature-avoidance-social-isolation-loneliness/675984/
@@ -60,11 +101,46 @@
   link: https://www.vox.com/even-better/23943426/anti-gatekeeping-invitations-parties-guests-strangers-old-friends
   year: 2023
 
+- title: "8 new types of ‘forever chemicals’ found in river linked to US cancer cluster"
+  publication: "Popular Science"
+  link: "https://www.popsci.com/environment/news-pfas-chemours-north-carolina/"
+  year: 2023
+
+- title: "Natural disasters can burn out our hormonal systems for years"
+  publication: "Popular Science"
+  link: "https://www.popsci.com/environment/tsunami-hormone-long-term/"
+  year: 2023
+  
 - title: "Why some people don’t feel the buzz of caffeine"
   publication: The Washington Post
   link: https://www.washingtonpost.com/wellness/2023/10/10/caffeine-sensitivity-coffee-heart-genes/
   year: 2023
 
+- title: "Tree plantations try to offset our carbon pollution. Here’s the problem."
+  publication: "Popular Science"
+  link: "https://www.popsci.com/environment/planting-trees-carbon-offsets/"
+  year: 2023
+
+- title: "Two fault lines near Seattle could rupture in one giant earthquake"
+  publication: "Popular Science"
+  link: "https://www.popsci.com/science/earthquake-two-faults-seattle/"
+  year: 2023
+
+- title: "Grizzlies are getting killed by roads, but the risks are bigger than roadkill"
+  publication: "Popular Science"
+  link: "https://www.popsci.com/environment/mammals-mortalities-roads/"
+  year: 2023
+
+- title: "When climate change throws the Pacific off balance, the world’s weather follows"
+  publication: "Popular Science"
+  link: "https://www.popsci.com/environment/pacific-ocean-weather-patterns-climate-change/"
+  year: 2023
+
+- title: "Scientists are trying to teach AI how to smell"
+  publication: "Popular Science"
+  link: "https://www.popsci.com/science/teach-ai-how-to-smell/"
+  year: 2023
+  
 - title: "Light Pollution Is Causing Oyster Insomnia"
   publication: "Hakai Magazine'
   link: "https://hakaimagazine.com/news/light-pollution-is-causing-oyster-insomnia/"
@@ -80,6 +156,11 @@
   link: "https://www.outsideonline.com/health/wellness/how-many-hours-of-sleep-do-you-need-to-be-productive/"
   year: 2023
 
+- title: "Why you might feel older than you actually are"
+  publication: "Popular Science"
+  link: "https://www.popsci.com/health/what-is-biological-age/"
+  year: 2023
+  
 - title: "What to Know About Seasonal Depression"
   publication: "The New York Times"
   link: "https://www.nytimes.com/article/seasonal-depression-what-to-know.html"
@@ -101,7 +182,7 @@
   year: 2023
 
 - title: "The Best and Worst Habits for Eyesight"
-  publication: "The New York Times"
+  publication: "The New York Times - 1M views in first week"
   link: "https://www.nytimes.com/2023/05/15/well/live/eyesight-vision-habits.html"
   year: 2023
 
@@ -211,12 +292,12 @@
   year: 2022
 
 - title: "Is It Better to Brush Your Teeth Before Breakfast or After?"
-  publication: The New York Times
+  publication: "The New York Times - 1.3M views in first week"
   link: "https://www.nytimes.com/2022/11/01/well/live/brushing-teeth-breakfast.html"
   year: 2022
 
 - title: "How to Boost Your Immune System During Cold and Flu Season"
-  publication: The New York Times
+  publication: "The New York Times - 1M views in first week"
   link: "https://www.nytimes.com/2022/10/14/well/live/cold-flu-immune-system.html"
   year: 2022
 
@@ -240,47 +321,201 @@
   link: https://www.nytimes.com/2022/08/19/well/mind/heat-mental-health.html
   year: 2022
 
+- title: "Are Earbuds Damaging My Hearing?"
+  publication: The New York Times
+  link: "https://www.nytimes.com/2022/08/16/well/live/headphones-hearing-loss.html"
+  year: 2022
+
+- title: "What Is Heat Rash and How Do You Treat It?"
+  publication: The New York Times
+  link: "https://www.nytimes.com/2022/08/09/well/live/heat-rash-treatment-symptoms.html"
+  year: 2022
+
+- title: "How a Sleep Scientist Falls Asleep"
+  publication: The New York Times
+  link: "https://www.nytimes.com/interactive/2022/08/05/well/sleep-scientist-tips.html"
+  year: 2022
+
+- title: "Does Vitamin B6 Boost Mental Health?"
+  publication: The New York Times
+  link: "https://www.nytimes.com/2022/08/02/well/mind/vitamin-b6-benefits.html"
+  year: 2022
+
+- title: "How to Live With Covid When You Are Tired of Living With Covid"
+  publication: "The New York Times - 1.2M views in first week"
+  link: "https://www.nytimes.com/2022/07/25/well/live/covid-ba5-precautions.html"
+  year: 2022
+
+- title: "The Worst Foods and Drinks for Your Teeth"
+  publication: "The New York Times - 1.6M views in first week"
+  link: "https://www.nytimes.com/2022/07/18/well/eat/teeth-decay-food-drinks.html"
+  year: 2022
+
+- title: "How to Stay Hydrated in a Heat Wave"
+  publication: "The New York Times"
+  link: "https://www.nytimes.com/article/hydration-heat-wave.html"
+  year: 2022
+
+- title: "The Foods That Keep You Hydrated"
+  publication: "The New York Times"
+  link: "https://www.nytimes.com/2022/06/28/well/hydrating-foods.html"
+  year: 2022
+
+- title: "Stress Might Age the Immune System, New Study Finds"
+  publication: "The New York Times"
+  link: "https://www.nytimes.com/2022/06/17/well/mind/stress-aging-immune-system.html"
+  year: 2022
+
+- title: "Extinction obituary: how the Bramble Cay melomys became the first mammal lost to the climate crisis"
+  publication: The Guardian
+  link: "https://www.theguardian.com/environment/2022/jun/01/extinction-obituary-bramble-cay-melomys-climate-change-aoe"
+  year: 2022
+
+- title: "Extinction obituary: the sudden, sad disappearance of the Christmas Island forest skink"
+  publication: The Guardian
+  link: https://www.theguardian.com/environment/2022/may/18/christmas-island-forest-skinks-lizard-extinct-aoe
+  year: 2022
+  
 - title: "Untangling Race From Hair"
   publication: SAPIENS
   link: https://www.sapiens.org/biology/hair-race-evolution/
   year: 2022
   
-- title: "Extinction obituary: the sudden, sad disappearance of the Christmas Island forest skink"
-  publication: The Guardian
-  link: https://www.theguardian.com/environment/2022/may/18/christmas-island-forest-skinks-lizard-extinct-aoe
-  year: 2022
-
 - title: "The First Global Vaccination Expedition Set Sail in 1803"
-  publication: Discover Mag (Print issue)
+  publication: "Discover Magazine (Print issue)"
   link: https://www.discovermagazine.com/health/the-first-global-vaccination-expedition-set-sail-in-1803
   year: 2022
 
-- title: "How to Live With Covid When You Are Tired of Living With Covid"
-  publication: The New York Times
-  link: "https://www.nytimes.com/2022/07/25/well/live/covid-ba5-precautions.html"
+- title: "What is… microfluidics?"
+  publication: "The Garage"
+  link: "https://garage.hp.com/us/en/innovation/what-is-microfluidics-tech-explainer.html"
   year: 2022
+
+  
 
 ########
 # 2021 #
-
-- title: "Essay: Does Making Predictions Impede the Formation of Memories?"
-  publication: Catapult
-  link: https://catapult.co/stories/hannah-seo-memory-formation-prediction-neuroscience
-  year: 2021
 
 - title: "The ups and downs of a great vertical migration"
   publication: Knowable Magazine; Republished in The Atlantic, Scientific American, Smithsonian Magazine, and Inverse
   link: https://knowablemagazine.org/content/article/living-world/2021/up-downs-great-vertical-migration
   year: 2021
 
+- title: "What Happens to Caves When Wildfires Scorch the Surface?"
+  publication: "Atlas Obscura"
+  link: "https://www.atlasobscura.com/articles/wildfires-lava-beds-national-monument"
+  year: 2021
+
+- title: "The US falls behind most of the world in plastic pollution legislation"
+  publication: "EHN"
+  link: "https://www.ehn.org/plastic-pollution-2655191194.html"
+  year: 2021
+
+- title: "Why Were These Mysterious Stone Orbs Stashed All Over Neolithic Britain?"
+  publication: "Atlas Obscura"
+  link: "https://www.atlasobscura.com/articles/mysterious-neolithic-stone-balls"
+  year: 2021
+  
+- title: "Essay: Does Making Predictions Impede the Formation of Memories?"
+  publication: Catapult
+  link: https://catapult.co/stories/hannah-seo-memory-formation-prediction-neuroscience
+  year: 2021
+
+- title: "The Mysterious Coral Cousin Swarming the Palmyra Atoll"
+  publication: "Atlas Obscura"
+  link: "https://www.atlasobscura.com/articles/corallimorphs-palmyra-atoll"
+  year: 2021
+
+- title: "All Coral Cells Grown in a Dish for the First Time"
+  publication: "Scientific American (Print issue)"
+  link: "https://www.scientificamerican.com/article/all-coral-cells-grown-in-a-dish-for-the-first-time/"
+  year: 2021
+
+- title: "How Scientific Detective Work Pinned Down the Oldest Known Shark Attack"
+  publication: "Atlas Obscura"
+  link: "https://www.atlasobscura.com/articles/oldest-known-shark-attack"
+  year: 2021
+
+- title: "The Colorful, Costly World of Custom Keyboard Enthusiasts"
+  publication: "WIRED"
+  link: "https://www.wired.com/story/colorful-costly-world-custom-keyboard-enthusiasts/"
+  year: 2021
+
+- title: "Indigenous harvest rights still under attack in the upper Great Lakes"
+  publication: "EHN"
+  link: https://www.ehn.org/indigenous-harvest-rights-2652632895.html
+  year: 2021
+
+- title: "There is a “massive power station” lurking under the ocean"
+  publication: "Inverse"
+  link: "https://www.inverse.com/science/deep-sea-volcanoes-future-of-energy"
+  year: 2021
+  
 - title: "Blah Blah Blah: The Lack of Small Talk Is Breaking Our Brains"
   publication: The Walrus
   link: https://thewalrus.ca/blah-blah-blah-the-lack-of-small-talk-is-breaking-our-brains/
   year: 2021
 
-- title: "Indigenous harvest rights still under attack in the upper Great Lakes"
-  publication: Environmental Health News
-  link: https://www.ehn.org/indigenous-harvest-rights-2652632895.html
+- title: "Forecast or Remember: The Brain Must Choose One"
+  publication: "Scientific American (Print issue)"
+  link: "https://www.scientificamerican.com/article/forecast-or-remember-the-brain-must-choose-one/"
   year: 2021
 
+- title: "The Dyatlov Pass Incident: Can Science Explain What Happened to the Hikers?"
+  publication: "Discover Magazine"
+  link: "https://www.discovermagazine.com/planet-earth/the-dyatlov-pass-incident-can-science-explain-what-happened-to-the-hikers"
+  year: 2021
+
+- title: "Fish farming has a plastic problem"
+  publication: "EHN"
+  link: "https://www.ehn.org/plastic-in-farmed-fish-2650268080.html"
+  year: 2021
+
+
+
+
+########
+# 2020 #
+
+
+- title: "Unplugged: Abandoned oil and gas wells leave the ocean floor spewing methane"
+  publication: "EHN"
+  link: "https://www.ehn.org/oil-and-gas-wells-methane-oceans-2649126354.html"
+  year: 2020
+
+- title: "Major oil and gas companies join program to cut methane emissions"
+  publication: "EHN"
+  link: "https://www.ehn.org/global-methane-emissions-program-2649020110.html"
+  year: 2020
+
+- title: "No place is safe: Tiny bits of plastic pollute the snow, streams on iconic Mount Everest"
+  publication: "EHN"
+  link: "https://www.ehn.org/plastic-pollution-mount-everest-2648990943.html"
+  year: 2020
+
+- title: "Dust from your old furniture likely contains harmful chemicals—but there’s a solution"
+  publication: "EHN"
+  link: "https://www.ehn.org/pfas-and-flame-retardants-in-house-dust-2648396264.html"
+  year: 2020
+
+- title: "Climate change will continue to widen gaps in food security, new study finds"
+  publication: "EHN"
+  link: "https://www.ehn.org/climate-change-and-food-security-2647870834.html"
+  year: 2020
+
+- title: "Long-banned toxics are still accumulating in Great Lakes birds—as new chemical threats emerge"
+  publication: "EHN"
+  link: "https://www.ehn.org/great-lakes-pollution-birds-2647732152.html"
+  year: 2020
+
+- title: "Meet the Young Doctor Leading Nepal's COVID-19 Testing Program"
+  publication: "Medscape"
+  link: "https://www.medscape.com/viewarticle/932233?form=fpf"
+  year: 2020
+
+
+  
+
+
+  
 
