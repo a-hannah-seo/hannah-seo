@@ -1,6 +1,12 @@
 ########
 # 2024 #
 
+- title: "Feature: Why Do Stolen Relics Worth Millions Keep Ending up in America's Most Prestigious Museums?"
+  publication: "Popular Mechanics"
+  blurb: "How two bronze masks, stolen in the 1990s, found their way home to Nepal after 30 years."
+  link: "https://www.popularmechanics.com/culture/a61409860/solving-the-bhairava-mask-heist/"
+  year: 2024
+  
 - title: "Up at Noon, Out All Night: This Summer Camp Is for Serious Stargazers"
   publication: "Atlas Obscura"
   blurb: "For more than half a century, the International Astronomical Youth Camp has attracted aspiring astronomers from around the world."
@@ -422,7 +428,7 @@
   link: https://www.theguardian.com/environment/2022/may/18/christmas-island-forest-skinks-lizard-extinct-aoe
   year: 2022
   
-- title: "Untangling Race From Hair"
+- title: "Feature: Untangling Race From Hair"
   publication: SAPIENS
   link: https://www.sapiens.org/biology/hair-race-evolution/
   year: 2022
@@ -442,7 +448,7 @@
 ########
 # 2021 #
 
-- title: "The ups and downs of a great vertical migration"
+- title: "Feature: The ups and downs of a great vertical migration"
   publication: Knowable Magazine; Republished in The Atlantic, Scientific American, Smithsonian Magazine, and Inverse
   link: https://knowablemagazine.org/content/article/living-world/2021/up-downs-great-vertical-migration
   year: 2021
@@ -487,7 +493,7 @@
   link: "https://www.wired.com/story/colorful-costly-world-custom-keyboard-enthusiasts/"
   year: 2021
 
-- title: "Indigenous harvest rights still under attack in the upper Great Lakes"
+- title: "Feature: Indigenous harvest rights still under attack in the upper Great Lakes"
   publication: "EHN"
   link: https://www.ehn.org/indigenous-harvest-rights-2652632895.html
   year: 2021
@@ -537,7 +543,7 @@
 # 2020 #
 
 
-- title: "Unplugged: Abandoned oil and gas wells leave the ocean floor spewing methane"
+- title: "Feature: Unplugged: Abandoned oil and gas wells leave the ocean floor spewing methane"
   publication: "EHN"
   link: "https://www.ehn.org/oil-and-gas-wells-methane-oceans-2649126354.html"
   year: 2020
@@ -652,7 +658,7 @@
   link: "https://www.popsci.com/story/health/tear-gas-coronavirus/"
   year: 2020
 
-- title: "Meet the Young Doctor Leading Nepal's COVID-19 Testing Program"
+- title: "Profile: Meet the Young Doctor Leading Nepal's COVID-19 Testing Program"
   publication: "Medscape"
   link: "https://www.medscape.com/viewarticle/932233?form=fpf"
   year: 2020
