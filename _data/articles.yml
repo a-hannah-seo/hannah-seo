@@ -26,6 +26,13 @@
   image: "assets/images/articles/Nepal Bhairava Masks.jpg"
   alt-text: "A glowy bronze mask sits in the middle of darkness."
 
+- title: America Is Getting Lonelier and More Indoorsy. That’s Not a Coincidence.
+  publication: The Atlantic
+  blurb: Our relationship to nature and our relationships with one another are deeply intertwined.
+  link: https://www.theatlantic.com/health/archive/2023/11/nature-avoidance-social-isolation-loneliness/675984/
+  image: "/assets/images/articles/biophobia.webp"
+  alt-text: "An elderly couple walks away from the camera, amid lush foliage of a public park"
+  
 - title: "Missing a friend from the past? You should reach out."
   publication: "Vox"
   blurb: "Your old friend probably wants to DM you too."
@@ -46,13 +53,6 @@
   link: "https://atmos.earth/where-are-the-good-climate-change-apps/"
   image: "assets/images/articles/Good Climate Change Apps Atmos.jpeg"
   alt-text: "A silhouette of a person holding a phone"
-  
-- title: America Is Getting Lonelier and More Indoorsy. That’s Not a Coincidence.
-  publication: The Atlantic
-  blurb: Our relationship to nature and our relationships with one another are deeply intertwined.
-  link: https://www.theatlantic.com/health/archive/2023/11/nature-avoidance-social-isolation-loneliness/675984/
-  image: "/assets/images/articles/biophobia.webp"
-  alt-text: "An elderly couple walks away from the camera, amid lush foliage of a public park"
 
 - title: "The Lady Gaga Ferns Are Losing Their Home. It’s Surprisingly Tragic for Science and Society."
   publication: "Atmos Magazine"
