@@ -1,3 +1,10 @@
+- title: "When a couple doesn’t want more kids (or any) who should get snipped?"
+  publication: "The Guardian"
+  blurb: "Four couples describe why they chose sterilization surgery – and how they decided which of them would get it"
+  link: "https://www.theguardian.com/wellness/article/2024/aug/20/surgical-sterilization-how-to-decide"
+  image: "assets/images/articles/sterilization copy.jpg"
+  alt-text: "A couple stands next to an empty crib while balloons float up into the air."
+  
 - title: "Skin Care Is Coming for Your Brain"
   publication: "The Atlantic"
   blurb: "Need to work on your relationships? There’s a moisturizer for that."
@@ -39,13 +46,6 @@
   link: "https://atmos.earth/where-are-the-good-climate-change-apps/"
   image: "assets/images/articles/Good Climate Change Apps Atmos.jpeg"
   alt-text: "A silhouette of a person holding a phone"
-
-- title: "Does Long-Term Benadryl Use Increase Dementia Risk?"
-  publication: "Scientific American"
-  blurb: "Benadryl, which contains diphenhydramine, is a drugstore mainstay and just one medication out of many that could possibly damage brain health"
-  link: "https://www.scientificamerican.com/article/does-long-term-benadryl-use-increase-dementia-risk/"
-  image: "assets/images/articles/Screenshot 2024-03-27 at 10.07.32 AM.png"
-  alt-text: "A pink pill resembling a brain cracks"
   
 - title: America Is Getting Lonelier and More Indoorsy. That’s Not a Coincidence.
   publication: The Atlantic
@@ -89,33 +89,12 @@
   image: "/assets/images/articles/206CC90B-23A7-4491-9305E18278BB0841_source.webp"
   alt-text: "The blue Jeopardy! stage"
 
-- title: "What does it mean to be likable – and who has to abide by those rules?"
-  publication: "The Guardian"
-  blurb: "‘Likability’ is hardly an objective measure – it’s a vague idea at best, mired in gendered, racialized and political connotations."
-  link: "https://www.theguardian.com/wellness/2023/dec/18/likability-women-people-of-color-gender-bias"
-  image: "/assets/images/articles/Screenshot 2024-02-21 at 3.07.08 PM.png"
-  alt-text: "The word 'likable' is written in blue and scratched out"
-
 - title: "What Can Hypnosis Do for Your Health?"
   publication: "The New York Times"
   blurb: "This 200-year-old treatment can be effective for a variety of conditions, but it does take work."
   link: "https://www.nytimes.com/2023/02/08/well/mind/hypnosis-therapy-mental-health-depression.html"
   image: "/assets/images/articles/hypno.webp"
   alt-text: "An illustration of a figure's head reflected left-right, with swirling hypnotic circles in between"
-
-- title: How to Stop Ruminating
-  publication: The New York Times
-  blurb: Stuck in a mental loop of worries and problems that seem to have no end? Here’s what you can do.
-  link: https://www.nytimes.com/2023/02/01/well/mind/stop-rumination-worry.html
-  image: "/assets/images/articles/rumination.webp"
-  alt-text: "A cute figurine with a large translucent bubble melting on its head"
-
-- title: Why some people don’t feel the buzz of caffeine
-  publication: The Washington Post
-  blurb: Genetics, smoking and medications can all influence how our bodies react to caffeinated beverages.
-  link: https://www.washingtonpost.com/wellness/2023/10/10/caffeine-sensitivity-coffee-heart-genes/
-  image: "/assets/images/articles/caffeine.webp"
-  alt-text: "Two small figurines, one masculine and one feminine, perched within glass mugs, with a backdrop of clouds on a blue sky"
 
 - title: Untangling Race From Hair
   blurb: One anthropologist has made it her mission to remove racial prejudices from the study of hair and find the evolutionary roots of hair diversity.
@@ -137,27 +116,6 @@
   link: https://knowablemagazine.org/content/article/living-world/2021/up-downs-great-vertical-migration
   image: "/assets/images/articles/vm.webp"
   alt-text: "A microscope photograph of aquatic organisms"
-  
-- title: "Extinction obituary: the sudden, sad disappearance of the Christmas Island forest skink"
-  blurb: Gump was the last lizard of her kind when she died in 2014, and her demise should be ‘a scar on our conscience’
-  publication: The Guardian
-  link: https://www.theguardian.com/environment/2022/may/18/christmas-island-forest-skinks-lizard-extinct-aoe
-  image: "/assets/images/articles/skink.webp"
-  alt-text: "A Victorian-era illustration of a skink on a log with a flower nearby"
-
-- title: The First Global Vaccination Expedition Set Sail in 1803
-  publication: Discover Mag (Print issue)
-  blurb: A brave doctor and a group of orphans embarked on a voyage to save the world from smallpox.
-  link: https://www.discovermagazine.com/health/the-first-global-vaccination-expedition-set-sail-in-1803
-  image: "/assets/images/articles/smallpox.webp"
-  alt-text: "An old-timey block print illustration of people on a shore waving to a large boat with sails"
-
-- title: How to Live With Covid When You Are Tired of Living With Covid
-  publication: The New York Times
-  blurb: The BA.5 surge is a reminder that we need to take precautions.
-  link: https://www.nytimes.com/2022/07/25/well/live/covid-ba5-precautions.html
-  image: "/assets/images/articles/covid.webp"
-  alt-text: "Photograph of people walking in a park, some with masks, one with a mask pulled down to his chin"
   
 - title: "Blah Blah Blah: The Lack of Small Talk Is Breaking Our Brains"
   blurb: Chit-chat is often dismissed as mindless and boring. But its absence over the past year is affecting you more than you think.
