@@ -82,3 +82,8 @@ for something as simple as updating data, the default choice for all of the fiel
 tap `Commit changes` and you're done! you'll see your latest commit in the commit history on the repository.
 
 Netlify will pick up that there were changes, and it'll build and deploy them to the live website within a minute. 
+
+# local development
+
+- start up jekyll server with `bundle exec jekyll serve`
+
