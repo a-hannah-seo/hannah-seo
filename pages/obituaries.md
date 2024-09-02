@@ -27,7 +27,9 @@ contact_link: /contact
     <p>Lorem ipsum dolor sit amet. Qui omnis similique <em>Aut similique et tempore velit ut galisum quasi</em>? Eum perspiciatis consequaturCum voluptate aut nulla provident et cumque minus. Ut recusandae quia est maxime nesciunt <strong>Ut repudiandae et ullam similique sed ducimus beatae est tenetur maxime</strong> non internos fugit. </p>
 
     <h2>Non reprehenderit voluptas et vero numquam et temporibus quaerat. </h2>
-    <p>Sit placeat unde <em>Eum quae et quasi ullam sed praesentium quasi</em> qui dolores pariatur ut inventore reiciendis. Vel perspiciatis voluptateQuo deserunt ut blanditiis iusto qui quaerat omnis. In quisquam minima <strong>Nam ducimus et nihil dolores et magni velit</strong> non quas dicta? </p>
+    <p>Sit placeat unde <em>Eum quae et quasi ullam sed praesentium quasi</em> qui dolores pariatur ut inventore reiciendis. Vel perspiciatis voluptateQuo deserunt ut blanditiis iusto qui quaerat omnis. In quisquam minima <strong>Nam ducimus et nihil dolores et magni velit</strong> non quas dicta? 
+    
+    Something about obituaries for loved ones, for yourself (a living obituary). I'm experienced in blah blah blah. </p>
 
     <h3>How hiring me as an obituary writer will work. </h3>
     <p>You'll get in touch, telling me who the obituary is for, and how fast you need it. My contact info is linked at the top of the page.</p>
