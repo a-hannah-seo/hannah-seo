@@ -23,13 +23,19 @@ contact_link: /contact
   </div>
   <div class="column">
 
-    <h1>Est debitis voluptas et repellat pariatur.</h1>
+    <h2>Est debitis voluptas et repellat pariatur.</h1>
     <p>Lorem ipsum dolor sit amet. Qui omnis similique <em>Aut similique et tempore velit ut galisum quasi</em>? Eum perspiciatis consequaturCum voluptate aut nulla provident et cumque minus. Ut recusandae quia est maxime nesciunt <strong>Ut repudiandae et ullam similique sed ducimus beatae est tenetur maxime</strong> non internos fugit. </p>
 
     <h2>Non reprehenderit voluptas et vero numquam et temporibus quaerat. </h2>
     <p>Sit placeat unde <em>Eum quae et quasi ullam sed praesentium quasi</em> qui dolores pariatur ut inventore reiciendis. Vel perspiciatis voluptateQuo deserunt ut blanditiis iusto qui quaerat omnis. In quisquam minima <strong>Nam ducimus et nihil dolores et magni velit</strong> non quas dicta? </p>
 
-    <h3>Ea impedit recusandae non facere eius. </h3>
-    <p>Ex repellendus minusQuo optio eos laboriosam suscipit in molestias mollitia et labore labore. Qui consequatur accusamus <em>Vel dolor rem aperiam ratione At earum molestiae</em> sed nihil blanditiis. Sed consequuntur omnis <strong>Et accusamus 33 voluptatem facere vel adipisci maiores et ipsum tempora</strong>? Ex voluptatibus nisiEt Quis qui fuga laborum sed sint quidem ut dolor velit nam adipisci impedit. </p>
+    <h3>How hiring me as an obituary writer will work. </h3>
+    <p>You'll get in touch, telling me who the obituary is for, and how fast you need it. My contact info is linked at the top of the page. 
+    
+    Fom there we'll schedule a time for a 30 minute phone call. During this chat you'll tell me all about your loved one's life, their personality, and any important details or anecdotes that capture their essence and arc of life. I'll send you a fully written obituary within about a week of our call. 
+    
+    After you've received my drafted obituary, you'll hav ethe opportunity to provide me with feedback and any edits you'd like to make. Once you're happy with the finished product, we can proceed with payment of $300, payable by Zelle or Venmo. 
+    
+    Recounting the life of a loved one is difficult, but I hope to make this process as gentle and joyful as possible. </p>
   </div>
 </div>
