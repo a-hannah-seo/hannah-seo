@@ -34,7 +34,7 @@ contact_link: /contact
     
     Fom there we'll schedule a time for a 30 minute phone call. During this chat you'll tell me all about your loved one's life, their personality, and any important details or anecdotes that capture their essence and arc of life. I'll send you a fully written obituary within about a week of our call. 
     
-    After you've received my drafted obituary, you'll hav ethe opportunity to provide me with feedback and any edits you'd like to make. Once you're happy with the finished product, we can proceed with payment of $300, payable by Zelle or Venmo. 
+    After you've received my drafted obituary, you'll hav ethe opportunity to provide me with feedback and any edits you'd like to make. Once you're happy with the finished product, we can proceed with payment of <strong>$300</strong>, payable by Zelle or Venmo. 
     
     Recounting the life of a loved one is difficult, but I hope to make this process as gentle and joyful as possible. </p>
   </div>
