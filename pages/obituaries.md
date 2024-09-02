@@ -23,7 +23,7 @@ contact_link: /contact
   </div>
   <div class="column">
 
-    <h2>Est debitis voluptas et repellat pariatur.</h1>
+    <h2>Est debitis voluptas et repellat pariatur.</h2>
     <p>Lorem ipsum dolor sit amet. Qui omnis similique <em>Aut similique et tempore velit ut galisum quasi</em>? Eum perspiciatis consequaturCum voluptate aut nulla provident et cumque minus. Ut recusandae quia est maxime nesciunt <strong>Ut repudiandae et ullam similique sed ducimus beatae est tenetur maxime</strong> non internos fugit. </p>
 
     <h2>Non reprehenderit voluptas et vero numquam et temporibus quaerat. </h2>
