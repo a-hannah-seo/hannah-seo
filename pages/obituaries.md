@@ -23,7 +23,7 @@ contact_link: /contact
   </div>
   <div class="column">
 
-    <h2>Let me help you honorn the life of your loved one with a specially crafted obituary.</h2>
+    <h2>Let me help you honor the life of your loved one with a specially crafted obituary.</h2>
     <p>I've had the honor of writing numerous obituaries for grieving families searching for a way to tell their loved one's life story. TKTKTKTKTKTKTK. </p>
 
     <p>Sit placeat unde <em>Eum quae et quasi ullam sed praesentium quasi</em> qui dolores pariatur ut inventore reiciendis. Vel perspiciatis voluptateQuo deserunt ut blanditiis iusto qui quaerat omnis. In quisquam minima <strong>Nam ducimus et nihil dolores et magni velit</strong> non quas dicta? 
