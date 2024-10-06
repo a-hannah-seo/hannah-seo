@@ -1,3 +1,18 @@
+################
+# Selected works
+################
+
+# Template
+# - title: "..."
+#   publication: "..."
+#   blurb: "..."
+#   link: "..."
+#   image: "..."
+#   alt-text: "..."
+#   post: "..." # this should match /_posts/year-month-date-post
+
+################
+
 - title: "When a couple doesn’t want more kids (or any) who should get snipped?"
   publication: "The Guardian"
   blurb: "Four couples describe why they chose sterilization surgery – and how they decided which of them would get it"
@@ -18,6 +33,7 @@
   link: "https://mentalhellth.xyz/p/the-pyramid-scheme-of-taste"
   image: "assets/images/articles/Screenshot 2024-08-01 at 3.38.15 PM.png"
   alt-text: "a meme-y illustration of a man is shocked at the sight of a pyramid of five star reviews and social media sites."
+  post: "pyramid-scheme-taste"
 
 - title: "Feature: Why Do Stolen Relics Worth Millions Keep Ending up in America's Most Prestigious Museums?"
   publication: "Popular Mechanics"

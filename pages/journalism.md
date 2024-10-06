@@ -14,7 +14,18 @@ priority: 1
       <div class="article-text">
         <p><span class="article-highlight article-title"> {{ article.title }} </span></p>
         <p><span class="article-highlight"> {{ article.blurb }} </span></p>
-        <p><span class="article-highlight"><i><a href="{{ article.link }}"> {{ article.publication }} </a></i></span></p>
+        <p>
+          <span class="article-highlight"><i><a href="{{ article.link }}"> {{ article.publication }} </a></i></span>
+          {% if article.post %}
+            <span class="article-highlight">
+              <i>
+                <a href="/post/{{ article.post }}">
+                  (or read here)
+                </a>
+              </i>
+            </span>
+          {% endif %}
+        </p>
       </div>
     </div>
   {% endfor %}
