@@ -2,6 +2,12 @@
 layout: post
 title: The Pyramid Scheme of Taste
 permalink: post/pyramid-scheme-taste
+
+publication: Mental Hellth
+original_date: 2024-08-01
+link: https://mentalhellth.xyz/p/the-pyramid-scheme-of-taste
+image: "/assets/images/articles/Screenshot 2024-08-01 at 3.38.15 PM.png"
+alt-text: "a meme-y illustration of a man is shocked at the sight of a pyramid of five star reviews and social media sites."
 ---
 
 A while ago, I was set to get dinner with my boyfriend and his parents in Sunset Park, Brooklyn, the neighborhood where he grew up. He scrolled through Google Maps and landed on Hainan Chicken House for our get-together. When we arrived, the two of us sat at a table and waited for his parents to show up when a trendy and somewhat diverse quartet of twenty-somethings entered the establishment. As they were seated at the table behind us, one of them immediately asked another, "so what does The New York Times recommend here?" Agitated, I eavesdropped for the next hour, growing increasingly frustrated as they asked the waiter for her recommendations for every section of the menu, discussed the history of Erewhon, recounted recent travels and their desires to go to Osaka, and took pictures of every dish while describing each as "interesting."

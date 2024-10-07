@@ -1,0 +1,56 @@
+---
+layout: default
+---
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+
+<div class="row pad-top">
+  <div class="column left-rail">
+  {% if page.publication %}
+    <h3>
+      <i>
+        This piece originally appeared in <a href="{{ page.link }}"> {{ page.publication }}</a> on {{ page.original_date | date: date_format }}.
+      </i>
+    </h3>
+  {% endif %}
+  </div>
+  <div class="column">
+
+    <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+      <header class="post-header">
+        <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+        <p class="post-meta">
+          <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+            {{ page.date | date: date_format }}
+          </time>
+      </header>
+
+      <div class="post-content e-content" itemprop="articleBody">
+        {{ content }}
+      </div>
+
+      {% if page.publication %}
+      <div class="article-box pad-top">
+        <div class="article">
+          <img class="article-image" src="{{ page.image }}" alt="{{ page.alt-text }}"/>
+          <div class="article-text">
+            <p class="pad-top">
+              <span class="article-highlight">
+                <i>
+                  {{ page.title }} originally appeared in <a href="{{ page.link }}"> {{ page.publication }} </a>.
+                </i>
+              </span>
+            </p>
+          </div>
+        </div>
+      </div>
+      {% endif %}
+
+      {%- if site.disqus.shortname -%}
+        {%- include disqus_comments.html -%}
+      {%- endif -%}
+
+      <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+    </article>
+  </div>
+</div>
