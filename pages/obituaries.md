@@ -26,9 +26,9 @@ contact_link: /contact
     <h2>Let me help you honor the life of your loved one with a specially crafted obituary.</h2>
     <p>I've had the honor of writing numerous obituaries for grieving families searching for a way to tell their loved one's life story. </p>
 
-    <p>Nothing is worse than a bland obituary that fails to convey the unique and lively colors of a life once lived. With every obituary, I strive to get to every individual's essence, and to convey their life and personality with the love and vibrancy that their loved ones would like to remember them by. 
+    <p>Nothing is worse than a bland obituary that fails to convey the unique and lively colors of a life once lived. With every obituary, I strive to get to every individual's essence, and to convey their life and personality with the love and vibrancy that their loved ones would like to remember them by. </p>
     
-    Whether you're seeking an obituary for a parent, spouse, or even for yourself (i.e. a living obituary), I will craft a unique narrative obituary that captures their personality and essence that honors their life. </p>
+    <p>Whether you're seeking an obituary for a parent, spouse, or even for yourself (i.e. a living obituary), I will craft a unique narrative obituary that captures their personality and essence that honors their life. </p>
 
     <h3>How hiring me as an obituary writer will work. </h3>
     <p>You'll get in touch, telling me who the obituary is for, and how fast you need it. My contact info is linked at the top of the page.</p>
