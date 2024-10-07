@@ -24,9 +24,9 @@ contact_link: /contact
   <div class="column">
 
     <h2>Let me help you honor the life of your loved one with a specially crafted obituary.</h2>
-    <p>I've had the honor of writing numerous obituaries for grieving families searching for a way to tell their loved one's life story. TKTKTKTKTKTKTK. </p>
+    <p>I've had the honor of writing numerous obituaries for grieving families searching for a way to tell their loved one's life story. </p>
 
-    <p>Sit placeat unde <em>Eum quae et quasi ullam sed praesentium quasi</em> qui dolores pariatur ut inventore reiciendis. Vel perspiciatis voluptateQuo deserunt ut blanditiis iusto qui quaerat omnis. In quisquam minima <strong>Nam ducimus et nihil dolores et magni velit</strong> non quas dicta? 
+    <p>Nothing is worse than a bland obituary that fails to convey the unique and lively colors of a life once lived. With every obituary, I strive to get to every individual's essence, and to convey their life and personality with the love and vibrancy that their loved ones would like to remember them by. 
     
     Whether you're seeking an obituary for a parent, spouse, or even for yourself (i.e. a living obituary), I will craft a unique narrative obituary that captures their personality and essence that honors their life. </p>
 
