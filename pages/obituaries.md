@@ -1,7 +1,7 @@
 ---
 permalink: /obituaries
 layout: page
-heading: Obituaries
+heading: Obituary Writing Services
 contact_link: /contact
 ---
 
