@@ -26,6 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 footer_description: site by C.W. with ♡
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+google_analytics: 'G-PLBHMZT9E5'
 
 # Build settings
 theme: minima
