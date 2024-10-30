@@ -19,13 +19,6 @@
   link: "https://www.theguardian.com/wellness/article/2024/aug/20/surgical-sterilization-how-to-decide"
   image: "assets/images/articles/sterilization copy.jpg"
   alt-text: "A couple stands next to an empty crib while balloons float up into the air."
-  
-- title: "Skin Care Is Coming for Your Brain"
-  publication: "The Atlantic"
-  blurb: "Need to work on your relationships? There’s a moisturizer for that."
-  link: "https://www.theatlantic.com/health/archive/2024/07/skin-care-neurocosmetics-brain-mental-health/678958/"
-  image: "assets/images/articles/neurocosmetics copy.jpg"
-  alt-text: "Smears of lotion form the image of a smiley face."
 
 - title: "Essay: The Pyramid Scheme of Taste"
   publication: "Mental Hellth"
@@ -42,6 +35,20 @@
   image: "assets/images/articles/Nepal Bhairava Masks.jpg"
   alt-text: "A glowy bronze mask sits in the middle of darkness."
 
+- title: "Skin Care Is Coming for Your Brain"
+  publication: "The Washington Post"
+  blurb: "Need to work on your relationships? There’s a moisturizer for that."
+  link: "https://www.theatlantic.com/health/archive/2024/07/skin-care-neurocosmetics-brain-mental-health/678958/"
+  image: "assets/images/articles/neurocosmetics copy.jpg"
+  alt-text: "Smears of lotion form the image of a smiley face."
+
+- title: "Skin Care Is Coming for Your Brain"
+  publication: "The Atlantic"
+  blurb: "Need to work on your relationships? There’s a moisturizer for that."
+  link: "https://www.theatlantic.com/health/archive/2024/07/skin-care-neurocosmetics-brain-mental-health/678958/"
+  image: "assets/images/articles/neurocosmetics copy.jpg"
+  alt-text: "Smears of lotion form the image of a smiley face."
+  
 - title: America Is Getting Lonelier and More Indoorsy. That’s Not a Coincidence.
   publication: The Atlantic
   blurb: Our relationship to nature and our relationships with one another are deeply intertwined.
@@ -56,26 +63,12 @@
   image: "assets/images/articles/Reconnect Vox.jpeg"
   alt-text: "A sad, old-timey dial telephone stands still and confused"
 
-- title: "‘We are all unwell’: a scholar’s radical approach to health"
-  publication: "The Guardian"
-  blurb: "Mimi Khúc discusses the concept of unwellness and how it is shaped by the structures around us in a new book, dear elia"
-  link: "https://www.theguardian.com/wellness/2024/mar/26/mimi-khuc-book-unwellness-health"
-  image: "assets/images/articles/Abyss duo.png"
-  alt-text: "The words 'The Abyss' surrounded by dark blue and black swirls"
-
 - title: "Where Are The Good Climate Change Apps?"
   publication: "Atmos Magazine"
   blurb: "Apps could help us track our individualized carbon footprints, but some experts are skeptical."
   link: "https://atmos.earth/where-are-the-good-climate-change-apps/"
   image: "assets/images/articles/Good Climate Change Apps Atmos.jpeg"
   alt-text: "A silhouette of a person holding a phone"
-
-- title: "The Lady Gaga Ferns Are Losing Their Home. It’s Surprisingly Tragic for Science and Society."
-  publication: "Atmos Magazine"
-  blurb: "Duke University is closing its century-old herbarium—a legendary plant collection and training ground—to the outcry of many."
-  link: "https://atmos.earth/duke-university-is-evicting-the-lady-gaga-ferns/"
-  image: "assets/images/articles/Lady Gaga Ferns Tragic.jpeg"
-  alt-text: "a fern specimen"
 
 - title: Stop Calling It 'Climate Anxiety.' It's Climate Dread.
   publication: The New Republic
@@ -132,13 +125,6 @@
   link: https://knowablemagazine.org/content/article/living-world/2021/up-downs-great-vertical-migration
   image: "/assets/images/articles/vm.webp"
   alt-text: "A microscope photograph of aquatic organisms"
-  
-- title: "Blah Blah Blah: The Lack of Small Talk Is Breaking Our Brains"
-  blurb: Chit-chat is often dismissed as mindless and boring. But its absence over the past year is affecting you more than you think.
-  publication: The Walrus
-  link: https://thewalrus.ca/blah-blah-blah-the-lack-of-small-talk-is-breaking-our-brains/
-  image: "/assets/images/articles/gabbing.webp"
-  alt-text: "An illustration of a girl sitting on a beach, resting against a palm tree"
 
 - title: Indigenous harvest rights still under attack in the upper Great Lakes
   publication: Environmental Health News
