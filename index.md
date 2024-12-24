@@ -7,7 +7,7 @@ photo_alt_text: A Korean-Canadian woman looks off the the right, leaning over a 
 <div class="row">
   <div class="column">
     <h1>
-      Hannah Seo is a Korean-Canadian freelance journalist, writer, editor, fact-checker and poet based in Brooklyn, New York.
+      Hannah Seo is a Korean-Canadian freelance journalist, writer, editor, fact-checker, and poet based in Brooklyn, New York.
     </h1>
   </div>
 </div>
