@@ -27,7 +27,7 @@ photo_alt_text: A Korean-Canadian woman looks off the the right, leaning over a 
       When not reporting, Hannah immerses herself in crafting essays and poetry. Her works have been featured in publications like <a href="https://newlimestonereview.as.uky.edu/2019/09/01/ouroboros/">The New Limestone Review</a>, <a href="https://portlandreview.org/three-poems-of-separation/">Portland Review</a>, and <a href="https://www.barzakhmag.net/spring-2020-poetry/2020/6/28/hannah-seo">Barzakh Magazine</a>. Hannah is currently working on a first collection after time spent in the Brooklyn Poets Mentorship Program.
     </p>
     <p>
-      Hannah has authored a small book about <a href="https://www.chroniclebooks.com/products/pocket-nature-series-sunset-seeking">sunsets</a>, and she also co-runs a monthly <a href="https://collageclub.substack.com">Collage Club</a>.
+      Hannah has authored a small book about <a href="https://www.chroniclebooks.com/products/pocket-nature-series-sunset-seeking">sunsets</a>, and also co-runs a monthly <a href="https://collageclub.substack.com">Collage Club</a>.
     </p>
     <p>
       Hannah is available for writing, editing, and fact-checking. <a href="/contact"><u>Get in touch</u></a>.
