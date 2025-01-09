@@ -26,21 +26,6 @@
   link: "https://slate.com/life/2024/12/grapes-red-green-sour-concord-welchs-juice-jelly.html"
   image: "assets/images/articles/slate graps.png"
   alt-text: "Two hands squeeze out the flesh of a purple grape."
-  
-- title: "When a couple doesn’t want more kids (or any) who should get snipped?"
-  publication: "The Guardian"
-  blurb: "Four couples describe why they chose sterilization surgery – and how they decided which of them would get it"
-  link: "https://www.theguardian.com/wellness/article/2024/aug/20/surgical-sterilization-how-to-decide"
-  image: "assets/images/articles/sterilization copy.jpg"
-  alt-text: "A couple stands next to an empty crib while balloons float up into the air."
-
-- title: "Essay: The Pyramid Scheme of Taste"
-  publication: "Mental Hellth"
-  blurb: "What we lose when we live vicariously through recommendation."
-  link: "https://mentalhellth.xyz/p/the-pyramid-scheme-of-taste"
-  image: "assets/images/articles/Screenshot 2024-08-01 at 3.38.15 PM.png"
-  alt-text: "a meme-y illustration of a man is shocked at the sight of a pyramid of five star reviews and social media sites."
-  post: "pyramid-scheme-taste"
 
 - title: "Feature: Why Do Stolen Relics Worth Millions Keep Ending up in America's Most Prestigious Museums?"
   publication: "Popular Mechanics"
@@ -49,12 +34,13 @@
   image: "assets/images/articles/Nepal Bhairava Masks.jpg"
   alt-text: "A glowy bronze mask sits in the middle of darkness."
 
-- title: "This green housing trend is booming"
-  publication: "The Washington Post"
-  blurb: "These green homes are designed to be as energy efficient as possible. New incentives aim to make them more budget-friendly."
-  link: "https://www.washingtonpost.com/home/2024/10/30/passive-house-adoption-surges/"
-  image: "assets/images/articles/Screenshot 2024-10-30 at 10.07.20 AM.png"
-  alt-text: "A house decked out with many different eco-friendly strategies"
+- title: "Essay: The Pyramid Scheme of Taste"
+  publication: "Mental Hellth"
+  blurb: "What we lose when we live vicariously through recommendation."
+  link: "https://mentalhellth.xyz/p/the-pyramid-scheme-of-taste"
+  image: "assets/images/articles/Screenshot 2024-08-01 at 3.38.15 PM.png"
+  alt-text: "a meme-y illustration of a man is shocked at the sight of a pyramid of five star reviews and social media sites."
+  post: "pyramid-scheme-taste"
 
 - title: "Skin Care Is Coming for Your Brain"
   publication: "The Atlantic"
@@ -69,6 +55,13 @@
   link: https://www.theatlantic.com/health/archive/2023/11/nature-avoidance-social-isolation-loneliness/675984/
   image: "/assets/images/articles/biophobia.webp"
   alt-text: "An elderly couple walks away from the camera, amid lush foliage of a public park"
+
+- title: "When a couple doesn’t want more kids (or any) who should get snipped?"
+  publication: "The Guardian"
+  blurb: "Four couples describe why they chose sterilization surgery – and how they decided which of them would get it"
+  link: "https://www.theguardian.com/wellness/article/2024/aug/20/surgical-sterilization-how-to-decide"
+  image: "assets/images/articles/sterilization copy.jpg"
+  alt-text: "A couple stands next to an empty crib while balloons float up into the air."
   
 - title: "Missing a friend from the past? You should reach out."
   publication: "Vox"
