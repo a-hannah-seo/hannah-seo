@@ -34,12 +34,19 @@
   image: "assets/images/articles/Nepal Bhairava Masks.jpg"
   alt-text: "A glowy bronze mask sits in the middle of darkness."
 
+- title: "Bigmouth buffalo: The mysterious fish that live for a century and don't decline with age"
+  publication: "BBC Future"
+  blurb: "Recent findings show bigmouth buffalo fish have perplexingly long lives and appear to get healthier as they age. But scientists are worried their population is about to crash."
+  link: "https://www.bbc.com/future/article/20250109-bigmouth-buffalo-the-mysterious-fish-that-lives-for-a-century-and-doesnt-decline-with-age"
+  image: "assets/images/articles/Screenshot 2025-01-10 at 10.11.23 AM.png"
+  alt-text: "A gray-green fish head with beady black eyes."
+  
 - title: "Essay: The Pyramid Scheme of Taste"
   publication: "Mental Hellth"
   blurb: "What we lose when we live vicariously through recommendation."
   link: "https://mentalhellth.xyz/p/the-pyramid-scheme-of-taste"
   image: "assets/images/articles/Screenshot 2024-08-01 at 3.38.15 PM.png"
-  alt-text: "a meme-y illustration of a man is shocked at the sight of a pyramid of five star reviews and social media sites."
+  alt-text: "A meme-y illustration of a man is shocked at the sight of a pyramid of five star reviews and social media sites."
   post: "pyramid-scheme-taste"
 
 - title: "Skin Care Is Coming for Your Brain"
