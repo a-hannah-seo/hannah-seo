@@ -26,13 +26,6 @@
   link:: "https://www.theguardian.com/society/2025/apr/04/ozempic-semaglutide-eating-disorders"
   image: "assets/images/articles/Screenshot 2025-04-04 at 10.20.29 AM.png"
   alt-text: "An Ozempic injection pen."
-  
-- title: "Sour Grapes"
-  publication: "Slate"
-  blurb: "America invented the perfect grape, then banished it into obscurity. I found out why."
-  link: "https://slate.com/life/2024/12/grapes-red-green-sour-concord-welchs-juice-jelly.html"
-  image: "assets/images/articles/slate graps.png"
-  alt-text: "Two hands squeeze out the flesh of a purple grape."
 
 - title: "Feature: Why Do Stolen Relics Worth Millions Keep Ending up in America's Most Prestigious Museums?"
   publication: "Popular Mechanics"
@@ -41,6 +34,13 @@
   image: "assets/images/articles/Nepal Bhairava Masks.jpg"
   alt-text: "A glowy bronze mask sits in the middle of darkness."
 
+- title: "Sour Grapes"
+  publication: "Slate"
+  blurb: "America invented the perfect grape, then banished it into obscurity. I found out why."
+  link: "https://slate.com/life/2024/12/grapes-red-green-sour-concord-welchs-juice-jelly.html"
+  image: "assets/images/articles/slate graps.png"
+  alt-text: "Two hands squeeze out the flesh of a purple grape."
+  
 - title: "Bigmouth buffalo: The mysterious fish that live for a century and don't decline with age"
   publication: "BBC Future"
   blurb: "Recent findings show bigmouth buffalo fish have perplexingly long lives and appear to get healthier as they age. But scientists are worried their population is about to crash."
