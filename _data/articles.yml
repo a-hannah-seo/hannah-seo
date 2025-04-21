@@ -34,6 +34,13 @@
   image: "assets/images/articles/Nepal Bhairava Masks.jpg"
   alt-text: "A glowy bronze mask sits in the middle of darkness."
 
+- title: "Ozempic Shots Have Taken Off. Why Haven’t GLP-1 Pills?"
+  publication: "Scientific American"
+  blurb: "Some experts say oral versions of popular weight-loss drugs such as Wegovy could offer people more flexibility and accessibility. What’s keeping the pills from taking off?"
+  link: "https://www.scientificamerican.com/article/why-glp-1-weight-loss-drugs-are-hard-to-make-into-pills/"
+  image: "/assets/images/articles/206CC90B-23A7-4491-9305E18278BB0841_source.webp"
+  alt-text: "The blue Jeopardy! stage"
+
 - title: "Sour Grapes"
   publication: "Slate"
   blurb: "America invented the perfect grape, then banished it into obscurity. I found out why."
