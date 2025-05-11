@@ -6,7 +6,7 @@ contact_link: /contact
 ---
 
 <div class="row pad-top">
-  <div class="column">
+  <div class="column left-rail">
 
     <h2>tktktk</h2>
     
@@ -18,7 +18,7 @@ contact_link: /contact
 
   </div>
   
-  <div class="column left-rail">
+  <div class="column">
   {% for t in site.data.faxx %}
     <div class="testimonial">
       <h4>
