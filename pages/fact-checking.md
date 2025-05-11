@@ -12,7 +12,7 @@ contact_link: /contact
     <div class="testimonial">
       <h4>
         <a href="{{t.link}}" target="_blank">
-        {{t.name}}. <i>{{t.title}}</i>. {{t.publisher}}, {{t.year}}.
+        {{t.author}}. <i>{{t.title}}</i>. {{t.publisher}}, {{t.year}}.
         </a>
       </h4>
       <p>{{t.body}}</p>
