@@ -1,5 +1,5 @@
 ---
-permalink: /fact-check
+permalink: /fact-checking
 layout: page
 heading: Fact Checking
 contact_link: /contact
@@ -14,10 +14,11 @@ contact_link: /contact
   {% for t in site.data.faxx %}
     <div class="testimonial">
       <h4>
-        {{t.title}}
+        <a href="{{t.link}}" target="_blank">
+        {{t.name}}. <i>{{t.title}}</i>. {{t.publisher}}, {{t.year}}.
+        </a>
       </h4>
-      <p>{{t.body}}</p>  
-      <p>— {{t.name}}, {{t.date}}</p>
+      <p>{{t.body}}</p>
     </div>
   {% endfor %}
   </div>
