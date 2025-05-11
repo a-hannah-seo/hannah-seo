@@ -6,19 +6,6 @@ contact_link: /contact
 ---
 
 <div class="row pad-top">
-  <div class="column left-rail">
-
-  {% for t in site.data.faxx %}
-    <div class="testimonial">
-      <h4>
-        <a href="{{t.link}}" target="_blank">
-        {{t.author}}. <i>{{t.title}}</i>. {{t.publisher}}, {{t.year}}.
-        </a>
-      </h4>
-      <p>{{t.body}}</p>
-    </div>
-  {% endfor %}
-  </div>
   <div class="column">
 
     <h2>tktktk</h2>
@@ -29,5 +16,18 @@ contact_link: /contact
 
     <p> Gingerbread lemon drops wafer ice cream croissant soufflé jelly-o pastry. Cake cheesecake carrot cake shortbread jelly beans powder dessert sweet. Wafer icing chocolate tootsie roll chupa chups ice cream bonbon. Jelly-o liquorice jelly-o danish topping bear claw. </p>
 
+  </div>
+  
+  <div class="column left-rail">
+  {% for t in site.data.faxx %}
+    <div class="testimonial">
+      <h4>
+        <a href="{{t.link}}" target="_blank">
+        {{t.author}}. <i>{{t.title}}</i>. {{t.publisher}}, {{t.year}}.
+        </a>
+      </h4>
+      <p>{{t.body}}</p>
+    </div>
+  {% endfor %}
   </div>
 </div>
