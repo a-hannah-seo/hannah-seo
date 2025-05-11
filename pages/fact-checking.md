@@ -7,9 +7,6 @@ contact_link: /contact
 
 <div class="row pad-top">
   <div class="column left-rail">
-  <div>
-    <h3><a href="{{page.contact_link}}">Contact me</a></h3>
-  </div>
 
   {% for t in site.data.faxx %}
     <div class="testimonial">
