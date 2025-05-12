@@ -7,7 +7,7 @@ contact_link: /contact
 
 <div class="row pad-top">
   <div class="column left-rail">
-  <div>
+  <div class="testimonial">
     <h3><a href="{{page.contact_link}}">Contact me</a></h3>
   </div>
 
