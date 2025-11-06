@@ -15,13 +15,6 @@
 
 - title: "How Sign Language Can Help Us All Be Better Communicators"
   publication: "The New York Times Magazine"
-  blurb: "The emotionality of ASL can free you from the trap of <a href='assets/images/articles/frontpage-latimes.png'>precision.</a>"
-  link: "https://www.nytimes.com/2025/01/07/magazine/american-sign-language.html"
-  image: "assets/images/articles/silent.webp"
-  alt-text: "The sign for 'help': one fist with a thumb up rests on the other hand, which is flat."
-
-- title: "How Sign Language Can Help Us All Be Better Communicators"
-  publication: "The New York Times Magazine"
   blurb: "The emotionality of ASL can free you from the trap of precision."
   link: "https://www.nytimes.com/2025/01/07/magazine/american-sign-language.html"
   image: "assets/images/articles/Screenshot 2025-01-07 at 9.49.12 AM.png"
@@ -33,6 +26,13 @@
   link: "https://www.theguardian.com/society/2025/apr/04/ozempic-semaglutide-eating-disorders"
   image: "assets/images/articles/Screenshot 2025-04-04 at 10.20.29 AM.png"
   alt-text: "An Ozempic injection pen."
+
+- title: "This instrument from the early cinema is disappearing. But not on Joe’s watch"
+  publication: "The Los Angeles Times"
+  blurb: "Joe Rinaudo has spent decades restoring photoplayers, rare instruments that once accompanied silent films. Featured on the <a href='assets/images/articles/frontpage-latimes.png'>front page of the Nov 5 LA Times.</a>"
+  link: "https://www.latimes.com/entertainment-arts/story/2025-11-03/joe-rinaudo-photoplayer-silent-film-legacy"
+  image: "assets/images/articles/silent.webp"
+  alt-text: "Joe Rinaudo sits at his photoplayer in his house."
 
 - title: "Get Ready to Hear a Lot More About Your Mitochondria"
   publication: "The Atlantic"
