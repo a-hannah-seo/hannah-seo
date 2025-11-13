@@ -34,6 +34,13 @@
   image: "assets/images/articles/silent.webp"
   alt-text: "Joe Rinaudo sits at his photoplayer in his house."
 
+- title: "Essay: Sycophantic synthetic eyes"
+  publication: "Substack / Splitting Hairs"
+  blurb: "My thoughts on AI imagery and journalism"
+  link: "https://hannahseo.substack.com/p/sycophantic-synthetic-eyes"
+  image: "assets/images/articles/Sept 24 Screenshot from CloudConvert.webp"
+  alt-text: "AI-generated bunnies jumping on a trampoline."
+
 - title: "Get Ready to Hear a Lot More About Your Mitochondria"
   publication: "The Atlantic"
   blurb: "Protecting the powerhouse of the cell is a central mission of MAHA."
