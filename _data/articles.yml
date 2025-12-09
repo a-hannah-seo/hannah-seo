@@ -20,6 +20,13 @@
   image: "assets/images/articles/Screenshot 2025-01-07 at 9.49.12 AM.png"
   alt-text: "The sign for 'help': one fist with a thumb up rests on the other hand, which is flat."
 
+- title: "People are nicer than you think"
+  publication: "Vox"
+  blurb: "We consistently underestimate how much other people like us, and it may be hurting our social lives."
+  link: "https://www.vox.com/life/471602/loneliness-fix-new-friends?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InA4RXNIZ2o2QUoiLCJwIjoiL2xpZmUvNDcxNjAyL2xvbmVsaW5lc3MtZml4LW5ldy1mcmllbmRzIiwiZXhwIjoxNzY2NDk5Njg1LCJpYXQiOjE3NjUyOTAwODV9.KkGvodv6iE-9bF1xntBeMKoBqVqAIzrk4uwewr_wFkM&utm_medium=gift-link"
+  image: "assets/images/articles/vox piece.png"
+  alt-text: "an illustrated hand tentatively holds a thorny rose"
+
 - title: "Ozempic is hailed as a miracle drug. But how does it affect people with eating disorders?"
   publication: "The Guardian"
   blurb: "Doctors worry about GLP-1s being used by people with restrictive eating disorders – but research also shows they could help others struggling with binge eating."
@@ -104,20 +111,6 @@
   link: "https://www.theguardian.com/wellness/article/2024/aug/20/surgical-sterilization-how-to-decide"
   image: "assets/images/articles/sterilization copy.jpg"
   alt-text: "A couple stands next to an empty crib while balloons float up into the air."
-  
-- title: "Missing a friend from the past? You should reach out."
-  publication: "Vox"
-  blurb: "Your old friend probably wants to DM you too."
-  link: "https://www.vox.com/the-highlight/358199/missing-a-friend-from-the-past-you-should-reach-out"
-  image: "assets/images/articles/Reconnect Vox.jpeg"
-  alt-text: "A sad, old-timey dial telephone stands still and confused"
-
-- title: "Where Are The Good Climate Change Apps?"
-  publication: "Atmos Magazine"
-  blurb: "Apps could help us track our individualized carbon footprints, but some experts are skeptical."
-  link: "https://atmos.earth/where-are-the-good-climate-change-apps/"
-  image: "assets/images/articles/Good Climate Change Apps Atmos.jpeg"
-  alt-text: "A silhouette of a person holding a phone"
 
 - title: Stop Calling It 'Climate Anxiety.' It's Climate Dread.
   publication: The New Republic
