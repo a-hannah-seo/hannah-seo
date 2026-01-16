@@ -20,6 +20,13 @@
   image: "assets/images/articles/Screenshot 2025-01-07 at 9.49.12 AM.png"
   alt-text: "The sign for 'help': one fist with a thumb up rests on the other hand, which is flat."
 
+- title: "Is America turning on birth control?"
+  publication: "Vox"
+  blurb: "It’s a weird time to talk about contraceptives. Here’s what the debate is missing."
+  link: "https://www.vox.com/the-highlight/473351/birth-control-changing-attitudes?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Im1TVFhjRzFFdVkiLCJwIjoiL3RoZS1oaWdobGlnaHQvNDczMzUxL2JpcnRoLWNvbnRyb2wtY2hhbmdpbmctYXR0aXR1ZGVzIiwiZXhwIjoxNzY5NzkwNTk1LCJpYXQiOjE3Njg1ODA5OTV9.A698X5AxyLd7JhaDzhSXF8giC4TXEoLSKUubTX52Rbk&utm_medium=gift-link"
+  image: "assets/images/articles/vox bc piece.jpg"
+  alt-text: "A sheet of birth control pills is surrounded by thorns"
+  
 - title: "People are nicer than you think"
   publication: "Vox"
   blurb: "We consistently underestimate how much other people like us, and it may be hurting our social lives."
