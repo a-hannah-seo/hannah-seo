@@ -41,6 +41,13 @@
   image: "assets/images/articles/Screenshot 2025-04-04 at 10.20.29 AM.png"
   alt-text: "An Ozempic injection pen."
 
+- title: "What Should Recorded Musicals Do?"   
+  publication: "Defector"   
+  blurb: "My rant/analysis on the purpose of recorded theater"
+  link: "https://defector.com/what-should-recorded-musicals-do"
+  image: "assets/images/articles/merrily.png"
+  alt-text: "Daniel Radcliffe, Jonathan Groff, and Lindsay Mendez on stage."
+  
 - title: "This instrument from the early cinema is disappearing. But not on Joe’s watch"
   publication: "The Los Angeles Times"
   blurb: "Joe Rinaudo has spent decades restoring photoplayers, rare instruments that once accompanied silent films. Featured on the <a href='assets/images/articles/frontpage-latimes.png'>front page of the Nov 5 LA Times.</a>"
