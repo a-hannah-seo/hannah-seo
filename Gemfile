@@ -36,3 +36,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem "logger"
 gem "csv"
 gem "base64"
+gem "bigdecimal"
