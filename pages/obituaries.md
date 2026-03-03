@@ -1,9 +1,32 @@
 ---
 permalink: /obituaries
 layout: page
+nav_exclude: true
+title: Professional Obituary Writing Services
+description: "Hire Hannah Seo, a journalist and poet, to craft a narrative obituary that honors your loved one's life. $300 flat, includes phone consultation and revisions."
 heading: Obituary Writing Services
 contact_link: /contact
 ---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Custom Obituary Writing",
+  "description": "Personalized narrative obituaries crafted to honor your loved one's life and personality.",
+  "provider": {
+    "@type": "Person",
+    "name": "Hannah Seo",
+    "url": "https://hannahseo.com"
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": "300",
+    "priceCurrency": "USD"
+  },
+  "url": "https://hannahseo.com/obituaries"
+}
+</script>
 
 <div class="row pad-top">
   <div class="column">
