@@ -20,6 +20,14 @@
   }
 }
 
+.site-title {
+  border: 1px solid $accent-terracotta;
+  padding: 3px;
+  margin: 0.5rem 0 0 0;
+  line-height: 1;
+  display: inline-block;
+}
+
 .site-header {
   border: 0;
 }
