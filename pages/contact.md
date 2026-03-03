@@ -34,7 +34,7 @@ instagram_username: v4nity_pl8
           <p style="display:none;"><label><input id="b0tz" name="b0tz"></label></p>
           <label for="message">Message</label>
           <textarea id="message" name="message" rows="8" required></textarea>
-          <p><button type="submit">Send</button></p>
+          <p class="push-right"><button type="submit">Send</button></p>
         </div>
       </div>
     </form>

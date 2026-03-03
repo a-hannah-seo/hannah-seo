@@ -11,7 +11,7 @@ supported_roles: [appearances, credits]
   <div class="row pad-top">
     <div class="column left-rail">
       <h3>
-        {{ role }}
+        {{ role | capitalize }}
       </h3>
     </div>
     <div class="column">
