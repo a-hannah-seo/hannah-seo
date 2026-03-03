@@ -6,21 +6,6 @@ contact_link: /contact
 ---
 
 <div class="row pad-top">
-  <div class="column left-rail">
-  <div>
-    <h3><a href="{{page.contact_link}}">Contact me</a></h3>
-  </div>
-
-  {% for t in site.data.obit_t %}
-    <div class="testimonial">
-      <h4>
-        {{t.title}}
-      </h4>
-      <p>{{t.body}}</p>  
-      <p>— {{t.name}}, {{t.date}}</p>
-    </div>
-  {% endfor %}
-  </div>
   <div class="column">
 
     <h2>Let me help you honor the life of your loved one with a specially crafted obituary.</h2>
@@ -38,5 +23,19 @@ contact_link: /contact
     <p>After you've received my drafted obituary, you'll have the opportunity to provide me with feedback and any edits you'd like to make. Once you're happy with the finished product, we can proceed with payment of <strong>$300</strong>, payable by Zelle or Venmo.</p>
     
     <p>Recounting the life of a loved one is difficult, but I hope to make this process as gentle and joyful as possible. </p>
+  </div>
+  <div class="column left-rail">
+    <div>
+      <h3><a href="{{page.contact_link}}">Contact me here.</a></h3>
+    </div>
+    {% for t in site.data.obit_t %}
+    <div class="testimonial">
+      <h4>
+        {{t.title}}
+      </h4>
+      <p>{{t.body}}</p>  
+      <p>— {{t.name}}, {{t.date}}</p>
+    </div>
+    {% endfor %}
   </div>
 </div>
