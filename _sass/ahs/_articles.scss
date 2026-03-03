@@ -7,6 +7,24 @@
 
 .article {
   width: 100%;
+  position: relative;
+
+  &::after {
+    content: '<<';
+    position: absolute;
+    right: -1.25rem;
+    bottom: 2.2rem;
+    font-weight: bold;
+    opacity: 0;
+    transition: opacity 0.1s ease;
+  }
+
+  &:hover::after {
+    opacity: 1;
+  }
+}
+
+.article-inner {
   overflow: hidden;
   position: relative;
 }
@@ -19,6 +37,11 @@
   width: 100%;
   height: -webkit-fill-available;
   object-fit: cover;
+  transition: opacity 0.1s ease;
+}
+
+.article:hover .article-image {
+  opacity: 0.5;
 }
 
 .article-title {
