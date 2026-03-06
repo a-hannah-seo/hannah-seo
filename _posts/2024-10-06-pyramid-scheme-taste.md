@@ -6,6 +6,7 @@ permalink: post/pyramid-scheme-taste
 publication: Mental Hellth
 original_date: 2024-08-01
 link: https://mentalhellth.xyz/p/the-pyramid-scheme-of-taste
+canonical_url: https://mentalhellth.xyz/p/the-pyramid-scheme-of-taste
 image: "/assets/images/articles/Screenshot 2024-08-01 at 3.38.15 PM.png"
 alt-text: "a meme-y illustration of a man is shocked at the sight of a pyramid of five star reviews and social media sites."
 ---

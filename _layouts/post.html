@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+{% comment %}
+  For republished pieces, set both `link:` and `canonical_url:` in the post frontmatter
+  to the original publication URL. `link:` drives the attribution display; `canonical_url:`
+  tells search engines the original is the authoritative version.
+{% endcomment %}
 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 
 <div class="row pad-top">
