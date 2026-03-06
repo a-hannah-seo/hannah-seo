@@ -4,4 +4,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.hannahseo.com/sitemap.xml
+Sitemap: https://hannahseo.com/sitemap.xml

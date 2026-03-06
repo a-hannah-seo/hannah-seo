@@ -3,6 +3,7 @@ layout: page
 title: Poetry
 permalink: /poetry
 priority: 2
+description: "Poetry by Hannah Seo, published in Palette Poetry, Witness Magazine, Pedestal Magazine, and other journals."
 ---
 
 <div class="poem-box pad-top">

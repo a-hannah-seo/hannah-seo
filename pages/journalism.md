@@ -5,6 +5,7 @@ heading: Selected Works
 permalink: /journalism
 clips-link: /all-clips
 priority: 1
+description: "Selected journalism by Hannah Seo, covering science, health, psychology, and culture for The Atlantic, Vox, The Guardian, Scientific American, NYT Magazine, and more."
 ---
 
 <div class="article-box pad-top">

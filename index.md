@@ -1,6 +1,6 @@
 ---
 layout: home
-photo_url: https://static.wixstatic.com/media/b48ef4_8c8afe0885bd4f9ea6fb6f7550e2ef52~mv2.jpg/v1/crop/x_0,y_997,w_2432,h_3029/fill/w_844,h_1042,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/IMG_9650.jpg
+photo_url: /assets/images/hannah-seo.jpg
 photo_alt_text: A Korean-Canadian person looks off the the right, leaning over a boat's railing, a canvas tote slung over their shoulder. In the distance, the New York City skyline is visible.
 ---
 
@@ -18,7 +18,7 @@ photo_alt_text: A Korean-Canadian person looks off the the right, leaning over a
   </div>
   <div class="column">
     <p>
-      Hannah's journalism can be found in publications like <a href="https://www.theatlantic.com/health/archive/2023/11/nature-avoidance-social-isolation-loneliness/675984/">The Atlantic</a>, <a href="https://www.vox.com/even-better/23943426/anti-gatekeeping-invitations-parties-guests-strangers-old-friends">Vox</a>, <a href="https://www.scientificamerican.com/author/hannah-seo/">Scientific American</a>, <a href="https://www.theguardian.com/profile/hannah-seo">The Guardian</a>, and <a href="https://www.nytimes.com/2025/01/07/magazine/american-sign-language.html">The New York Times Magazine</a>. Common topics of interest include neuroscience/psychology, ocean ecology, the intersection of climate and mental health, and social science. Hannah also serves as an international student advisor for their alma mater, the science, health, and environmental reporting program (SHERP) at NYU.
+      Hannah's journalism can be found in publications like <a href="https://www.theatlantic.com/health/archive/2023/11/nature-avoidance-social-isolation-loneliness/675984/">The Atlantic</a>, <a href="https://www.vox.com/even-better/23943426/anti-gatekeeping-invitations-parties-guests-strangers-old-friends">Vox</a>, <a href="https://www.scientificamerican.com/author/hannah-seo/">Scientific American</a>, <a href="https://www.theguardian.com/profile/hannah-seo">The Guardian</a>, and <a href="https://www.nytimes.com/2025/01/07/magazine/american-sign-language.html">The New York Times Magazine</a>. Common topics of interest include neuroscience/psychology, ocean ecology, the intersection of climate and mental health, and social science. They also serve as an international student advisor for their alma mater, the science, health, and environmental reporting program (SHERP) at NYU.
     </p>
     <p>
       Hannah was previously a fellow on the Well Desk at <a href="https://www.nytimes.com/by/hannah-seo">The New York Times</a>, where they delved into stories on mental and physical health and wellness.

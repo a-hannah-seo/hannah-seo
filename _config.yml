@@ -22,7 +22,8 @@ title: Hannah Seo
 title_short: HS
 email: a.hannah.seo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  journalist, writer, editor, fact-checker, poet
+  Hannah Seo is a Korean-Canadian freelance journalist, writer, and fact-checker covering science, health, and culture for The Atlantic, Vox, The Guardian, NYT Magazine, and more.
+image: /assets/images/hannah-seo.jpg
 footer_description: site by C.W. with ♡
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hannahseo.com" # the base hostname & protocol for your site, e.g. http://example.com

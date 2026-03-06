@@ -4,6 +4,7 @@ title: Audio
 permalink: /audio
 priority: 3
 supported_roles: [appearances, credits]
+description: "Audio appearances and credits featuring Hannah Seo — podcast interviews, radio segments, and produced pieces."
 ---
 <div>
 {% for role in page.supported_roles %}

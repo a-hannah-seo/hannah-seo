@@ -2,6 +2,7 @@
 layout: page
 heading: All Clips
 permalink: /all-clips
+canonical_url: https://hannahseo.com/journalism
 ---
 
 <div>

@@ -1,4 +1,9 @@
 
+@keyframes article-slide-in {
+  from { transform: translateX(1rem); }
+  to   { transform: translateX(0); }
+}
+
 .article-box {
   display: flex;
   flex-flow: column nowrap;
@@ -13,7 +18,7 @@
     content: '<<';
     position: absolute;
     right: -1.25rem;
-    bottom: 2.2rem;
+    bottom: 2.1rem;
     font-weight: bold;
     opacity: 0;
     transition: opacity 0.1s ease;
@@ -21,6 +26,7 @@
 
   &:hover::after {
     opacity: 1;
+    animation: article-slide-in 0.15s ease forwards;
   }
 }
 
