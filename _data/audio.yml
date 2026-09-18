@@ -1,9 +1,12 @@
+# New entries: use a quoted `date: "YYYY-MM-DD"` (e.g. date: "2026-09-14") instead of free text like "May 2026".
+# It renders on the page automatically as "Month Year" and sorts correctly in feed.xml.
+
 - title: "NPR: It's Been A Minute"
   blurb: "I joined NPR's Brittany Luse to discuss the complicated interactions between GLP-1s & eating disorders."
   role: appearances
   credit: Guest appearance
   publication: "It's Been A Minute"
-  date: "May 2026"
+  date: "2026-05-27"
   link: "https://www.npr.org/2026/05/27/nx-s1-5835713/can-glp-1s-withstand-body-image-pressure"
 
 - title: "Science Quickly from Scientific American"
@@ -11,7 +14,7 @@
   role: appearances
   credit: Guest appearance
   publication: Science Quickly
-  date: August 2025
+  date: "2025-08-13"
   link: https://www.scientificamerican.com/podcast/episode/a-male-birth-control-pill-moves-to-the-next-clinical-trial-stage/
   
 - title: "Non-toxic podcast with Daniel Waite Penny"
@@ -19,7 +22,7 @@
   role: appearances
   credit: Guest appearance
   publication: Non-toxic podcast
-  date: January 2024
+  date: "2024-01-04"
   link: https://open.spotify.com/episode/7pUg3vmvz9JB9erEUpUgzq?si=Uqp7ZIu3Q9WENm4FoaHXew
 
 - title: "Jo's Boys: A Little Women Podcast"
@@ -27,7 +30,7 @@
   role: appearances
   credit: Guest appearance
   publication: Jo's Boys
-  date: September 2023
+  date: "2023-09-01"
   link: https://open.spotify.com/episode/21s7tvKyn4y8cJpCAn69Av?si=14f839b805674f47
 
 - title: KJZZ with Lauren Gilger
@@ -35,7 +38,7 @@
   role: appearances
   credit: Radio appearance
   publication: KJZZ
-  date: December 2023
+  date: "2023-12-05"
   link: https://kjzz.org/content/1864769/science-says-age-loneliness-invite-everyone
 
 - title: KBOO
@@ -43,7 +46,7 @@
   role: appearances
   credit: Radio appearance
   publication: KBOO (Portland, Oregon)
-  date: September 2023
+  date: "2023-09-06"
   link: https://kboo.fm/media/117791-stop-calling-it-climate-anxiety-its-climate-dread-writer-hannah-seo
 
 - title: The Thin Line
@@ -51,6 +54,7 @@
   role: credits
   credit: "Fact-checker"
   publication: "The Thin Line, an Audible podcast series"
+  date: "2025-01-02"
   link: https://www.audible.com/pd/The-Thin-Line-Audiobook/B0DQ94FWZB
   
 - title: Sul Sul
@@ -58,6 +62,7 @@
   role: credits
   credit: Writer
   publication: Twenty Thousand Hertz
+  date: "2022-01-19"
   link: https://www.20k.org/episodes/sulsul
 
 - title: Storm Chasers
@@ -65,7 +70,7 @@
   role: credits
   credit: Writer
   publication: "Wondery: American Innovations"
-  date: May 2021
+  date: "2021-05-01"
   link: https://wondery.com/shows/american-innovations/episode/5656-storm-chasers-tornado-alley/
 
 - title: "How are you? I am fine: What we lose without small talk"
@@ -73,7 +78,7 @@
   role: appearances
   credit: Guest appearance
   publication: The Big Story
-  date: May 2021
+  date: "2021-05-05"
   link: https://thebigstorypodcast.ca/2021/05/05/how-are-you-i-am-fine-what-we-lose-without-small-talk/
 
 - title: The daunting task of holding an Islamic funeral in a pandemic
@@ -81,7 +86,7 @@
   role: credits
   credit: Producer
   publication: Scienceline
-  date: September 2020
+  date: "2020-09-28"
   link: https://scienceline.org/2020/09/islamic-burials/
 
 - title: The Weirdest Thing I Learned This Week
@@ -89,7 +94,7 @@
   role: appearances
   credit: Guest appearance
   publication: Popular Science
-  date: September 2020
+  date: "2020-09-16"
   link: https://www.popsci.com/story/science/weirdest-thing-orgone-energy-competitve-eating-beetle-frog-poop/
 
 - title: Is artificial intelligence changing art?
@@ -97,7 +102,7 @@
   role: credits
   credit: Producer
   publication: Scienceline
-  date: June 2020
+  date: "2020-06-10"
   link: https://scienceline.org/2020/06/is-artificial-intelligence-changing-art/
 
 

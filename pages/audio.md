@@ -20,7 +20,7 @@ description: "Audio appearances and credits featuring Hannah Seo — podcast int
       <div>
         <a href="{{ clip.link }}"><u>{{ clip.title }}</u></a>
         <br/>
-        <i>{{ clip.credit }} for {{ clip.publication }}, {{ clip.date }}</i>
+        <i>{{ clip.credit }} for {{ clip.publication }}{% if clip.date %}, {{ clip.date | date: "%B %Y" }}{% endif %}</i>
         <ul>
           <li class="boom">
             {{ clip.blurb }}
