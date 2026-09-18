@@ -1,0 +1,37 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>{{ site.title }}</title>
+  <description>{{ site.description | xml_escape }}</description>
+  <link>{{ site.url }}/</link>
+  <atom:link href="{{ site.url }}{{ site.rss_path }}" rel="self" type="application/rss+xml" />
+  <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+  <generator>Jekyll</generator>
+{% assign clips = site.data.clips %}
+{% assign poems = site.data.poems %}
+{% assign audio = site.data.audio %}
+{% assign all_items = clips | concat: poems | concat: audio %}
+{% comment %}
+  Every clip/poem/audio entry carries a real, quoted `date: "YYYY-MM-DD"` field
+  (backfilled from each link's actual publish date) except a small handful of poems
+  from journals with no discoverable date - those sort last via fallback_date.
+{% endcomment %}
+{% assign dated_items = all_items | where_exp: "item", "item.date" | sort: "date" | reverse %}
+{% assign undated_items = all_items | where_exp: "item", "item.date == nil" %}
+{% assign sorted_items = dated_items | concat: undated_items %}
+{% assign feed_items = sorted_items | slice: 0, 20 %}
+{% for item in feed_items %}
+  <item>
+    <title>{{ item.title | xml_escape }}</title>
+    <link>{{ item.link | xml_escape }}</link>
+    <guid isPermaLink="false">{{ item.link | xml_escape }}</guid>
+    <pubDate>{{ item.date | default: site.feed_fallback_date | date_to_rfc822 }}</pubDate>
+    {% if item.blurb %}<description>{{ item.blurb | xml_escape }}</description>{% endif %}
+    {% if item.publication %}<source url="{{ item.link | xml_escape }}">{{ item.publication | xml_escape }}</source>{% endif %}
+  </item>
+{% endfor %}
+</channel>
+</rss>

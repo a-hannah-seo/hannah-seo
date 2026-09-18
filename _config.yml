@@ -29,6 +29,11 @@ footer_description: site by C.W. with ♡
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hannahseo.com" # the base hostname & protocol for your site, e.g. http://example.com
 
+# pubDate feed.xml falls back to for entries with no known publish date (a handful of
+# undated poems from journals with no discoverable date)
+feed_fallback_date: "2026-09-14"
+rss_path: /feed.xml
+
 # Build settings
 theme: minima
 
