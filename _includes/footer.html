@@ -11,6 +11,9 @@
             {%- if site.email -%}
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {%- endif -%}
+            {%- if site.rss_path -%}
+            <li><a href="{{ site.rss_path | relative_url }}">RSS</a></li>
+            {%- endif -%}
         </ul>
       </div>
 
