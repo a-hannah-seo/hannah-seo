@@ -1,65 +1,67 @@
-######## 
+# New entries should include a quoted `date: "YYYY-MM-DD"` field so they sort correctly in feed.xml.
+
+########
 # 2026 #
 
 - title: "Don’t let nature slip out of reach"
   publication: "Psyche"
   link: "https://psyche.co/notes-to-self/its-not-too-late-to-strengthen-your-ties-to-nature"
-  year: 2026
+  date: "2026-08-18"
 
 - title: "Make some noise"
   publication: "Psyche"
   link: "https://psyche.co/notes-to-self/sexist-thinking-about-feminine-voices-goes-way-way-back"
-  year: 2026
+  date: "2026-07-24"
   
 - title: "The marks we leave each day"
   publication: "Psyche"
   link: "https://psyche.co/notes-to-self/what-if-we-could-see-the-marks-we-leave-throughout-the-day"
-  year: 2026
+  date: "2026-06-12"
 
 - title: "Talk to Strangers"
   publication: "Psyche"
   link: "https://psyche.co/notes-to-self/why-im-trying-to-talk-to-strangers-and-you-should-too"
-  year: 2026
+  date: "2026-05-15"
 
 - title: "We should invent new names for feelings"
   publication: "Psyche"
   link: "https://psyche.co/notes-to-self/why-its-worth-inventing-your-own-terms-for-how-you-feel"
-  year: 2026
+  date: "2026-04-03"
 
 - title: "What Should Recorded Musicals Do?"
   publication: "Defector"
   link: "https://defector.com/what-should-recorded-musicals-do"
-  year: 2026
+  date: "2026-02-24"
   
 - title: "How I became more facially expressive"
   publication: "Psyche"
   link: "https://psyche.co/notes-to-self/how-i-became-more-facially-expressive"
-  year: 2026
+  date: "2026-02-18"
   
 - title: "The next big thing in wellness is…mitochondria?"
   publication: "Vox"
   link: "https://www.vox.com/advice/478033/mitochondria-wellness-trend?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkFhVER1NldaV3IiLCJwIjoiL2FkdmljZS80NzgwMzMvbWl0b2Nob25kcmlhLXdlbGxuZXNzLXRyZW5kIiwiZXhwIjoxNzcxNjg1Njg1LCJpYXQiOjE3NzA0NzYwODV9.3eyX7U6DgzWyJ32A0qXdMWx23P5O49q1i20Qv-XwvlQ&utm_medium=gift-link"
-  year: 2026
+  date: "2026-02-05"
   
 - title: "Try everything twice"
   publication: "Psyche"
   link: "https://psyche.co/notes-to-self/the-power-of-a-simple-motto-try-everything-twice"
-  year: 2026
+  date: "2026-01-21"
   
 - title: "Is America turning on birth control?"
   publication: "Vox"
   link: "https://www.vox.com/the-highlight/473351/birth-control-changing-attitudes?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Im1TVFhjRzFFdVkiLCJwIjoiL3RoZS1oaWdobGlnaHQvNDczMzUxL2JpcnRoLWNvbnRyb2wtY2hhbmdpbmctYXR0aXR1ZGVzIiwiZXhwIjoxNzY5NzkwNTk1LCJpYXQiOjE3Njg1ODA5OTV9.A698X5AxyLd7JhaDzhSXF8giC4TXEoLSKUubTX52Rbk&utm_medium=gift-link"
-  year: 2026
+  date: "2026-01-16"
 
 - title: "How fit do we really need to be?"
   publication: "Vox"
   link: "https://www.vox.com/life/474795/too-much-fitness"
-  year: 2026
+  date: "2026-01-13"
 
 - title: "How to turn casual friends into close friends"
   publication: "Vox"
   link: "https://www.vox.com/life/473859/closer-friendships-strawberry-people?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjBzZUFUb0JSS1QiLCJwIjoiL2xpZmUvNDczODU5L2Nsb3Nlci1mcmllbmRzaGlwcy1zdHJhd2JlcnJ5LXBlb3BsZSIsImV4cCI6MTc2ODkzMjkyMiwiaWF0IjoxNzY3NzIzMzIyfQ.lzv7J_f58vWbFoMfVLJMQmn6RXuZLlc2EFQDq2Hoep0&utm_medium=gift-link"
-  year: 2026
+  date: "2026-01-05"
 
 ########
 # 2025 #
@@ -67,132 +69,132 @@
 - title: "It’s a gift to share reality with someone"
   publication: "Psyche"
   link: "https://psyche.co/notes-to-self/why-a-shared-reality-is-something-to-value-in-a-relationship"
-  year: 2025
+  date: "2025-12-23"
   
 - title: "The unexpected link between your diet and your anxiety"
   publication: "Vox"
   link: "https://www.vox.com/life/472211/anxiety-treatment-supplement-diet-magnesium-choline?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImlmdFV6eENFWkoiLCJwIjoiL2xpZmUvNDcyMjExL2FueGlldHktdHJlYXRtZW50LXN1cHBsZW1lbnQtZGlldC1tYWduZXNpdW0tY2hvbGluZSIsImV4cCI6MTc2NzAxNjkxNSwiaWF0IjoxNzY1ODA3MzE1fQ.H2ui5MDzZatjAh0i9aHYx1PJ0U8YEtZhDHIjsPA-6K4&utm_medium=gift-link"
-  year: 2025
+  date: "2025-12-15"
   
 - title: "Why kama muta is an emotion worth seeking"
   publication: "Psyche"
   link: "https://psyche.co/notes-to-self/how-moments-of-connection-reveal-the-power-of-kama-muta"
-  year: 2025
+  date: "2025-12-12"
   
 - title: "People are nicer than you think"
   publication: "Vox"
   link: "https://www.vox.com/life/471602/loneliness-fix-new-friends?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InA4RXNIZ2o2QUoiLCJwIjoiL2xpZmUvNDcxNjAyL2xvbmVsaW5lc3MtZml4LW5ldy1mcmllbmRzIiwiZXhwIjoxNzY2NDk5Njg1LCJpYXQiOjE3NjUyOTAwODV9.KkGvodv6iE-9bF1xntBeMKoBqVqAIzrk4uwewr_wFkM&utm_medium=gift-link"
-  year: 2025
+  date: "2025-12-09"
 
 - title: "Why Do Only Some People with Schizophrenia Hear Voices?"
   publication: "Scientific American"
   link: "https://www.scientificamerican.com/article/not-everyone-with-schizophrenia-hears-voices-heres-why/"
-  year: 2025
+  date: "2025-11-10"
 
 - title: "Sycophantic synthetic eyes"
   publication: "Substack / Splitting Hairs"
   link: "https://hannahseo.substack.com/p/sycophantic-synthetic-eyes"
-  year: 2025
+  date: "2025-11-06"
 
 - title: "This silent-film-era instrument is disappearing. Not on Joe’s watch"
   publication: "Los Angeles Times"
   link: "https://www.latimes.com/entertainment-arts/story/2025-11-03/joe-rinaudo-photoplayer-silent-film-legacy"
-  year: 2025
+  date: "2025-11-03"
   
 - title: "Embrace the monotony"
   publication: "Psyche"
   link: "https://psyche.co/notes-to-self/i-used-to-think-dull-moments-were-a-waste-then-i-read-this-story"
-  year: 2025
+  date: "2025-10-17"
   
 - title: "What is ‘executive dysfunction’ and how do you overcome it?"
   publication: "The Guardian"
   link: "https://www.theguardian.com/wellness/2025/sep/12/executive-dysfunction-overcome"
-  year: 2025
+  date: "2025-09-12"
   
 - title: "The eerie phenomenon that keeps popping up"
   publication: "Psyche"
   link: "https://psyche.co/notes-to-self/when-a-newly-learned-word-or-name-seems-to-follow-you-around"
-  year: 2025
+  date: "2025-09-08"
   
 - title: "The Plight of “Rough Fish”"
   publication: "Offrange/Ambrook"
   link: "https://ambrook.com/offrange/perspective/a-toast-to-the-rough-fish"
-  year: 2025
+  date: "2025-08-15"
   
 - title: "First Hormone-Free Male Birth Control Pill Shown Safe in Early Human Trial"
   publication: "Scientific American"
   link: "https://www.scientificamerican.com/article/male-birth-control-pill-yct-529-passes-human-safety-test/"
-  year: 2025
+  date: "2025-07-22"
   
 - title: "Why your next bed might be a 200-year-old Japanese design"
   publication: "The Washington Post"
   link: "https://www.washingtonpost.com/home/2025/07/23/tatami-mat-sleep-solution/"
-  year: 2025
+  date: "2025-07-23"
 
 - title: "Why it’s good to admit when you’re wrong – and how to improve"
   publication: "The Guardian"
   link: "https://www.theguardian.com/wellness/2025/jun/23/admitting-youre-wrong-relationships-intellectual-humility"
-  year: 2025
+  date: "2025-06-23"
   
 - title: "Get Ready to Hear a Lot More About Your Mitochondria"
   publication: "The Atlantic"
   link: "https://www.theatlantic.com/health/archive/2025/06/maha-casey-means-mitochondria-wellness/683085/"
-  year: 2025
+  date: "2025-06-01"
   
 - title: "Travel is for the rich now"
   publication: "Business Insider, Discourse"
   link: "https://www.businessinsider.com/summer-travel-for-rich-americans-luxury-vacation-budgets-spending-slowdown-2025-5"
-  year: 2025
+  date: "2025-05-01"
   
 - title: "Ozempic Shots Have Taken Off. Why Haven’t GLP-1 Pills?"
   publication: "Scientific American"
   link: "https://www.scientificamerican.com/article/why-glp-1-weight-loss-drugs-are-hard-to-make-into-pills/"
-  year: 2025
+  date: "2025-04-21"
 
 - title: "Ozempic is hailed as a miracle drug. But how does it affect people with eating disorders?"
   publication: "The Guardian"
   link: "https://www.theguardian.com/society/2025/apr/04/ozempic-semaglutide-eating-disorders"
-  year: 2025
+  date: "2025-04-04"
   
 - title: "The Most Important Ingredient in Chewing Gum"
   publication: "The Atlantic"
   link: "https://www.theatlantic.com/health/archive/2025/03/ingredient-chewing-gum-plastic/682237/"
-  year: 2025
+  date: "2025-03-01"
   
 - title: "Annotations"
   publication: "Substack / Splitting Hairs"
   link: "https://hannahseo.substack.com/p/annotations-211-311"
-  year: 2025
+  date: "2025-03-11"
 
 - title: "What is nerve flossing and does it help with nerve pain?"
   publication: "The Guardian"
   link: "https://www.theguardian.com/wellness/2025/feb/20/what-is-nerve-flossing"
-  year: 2025
+  date: "2025-02-20"
 
 - title: "Tipping the Hourglass: A reflection on time, belonging, and civic responsibility"
   publication: "Substack / Splitting Hairs"
   link: "https://hannahseo.substack.com/p/tipping-the-hourglass"
-  year: 2025
+  date: "2025-02-11"
   
 - title: "Hyperphantasia Affects About 3% of the Population. Here’s How to Tell If You Have It"
   publication: "SELF"
   link: "https://www.self.com/story/hyperphantasia"
-  year: 2025
+  date: "2025-01-22"
 
 - title: "Bigmouth buffalo: The mysterious fish that live for a century and don't decline with age"
   publication: "BBC Future"
   link: "https://www.bbc.com/future/article/20250109-bigmouth-buffalo-the-mysterious-fish-that-lives-for-a-century-and-doesnt-decline-with-age"
-  year: 2025
+  date: "2025-01-10"
   
 - title: "How Sign Language Can Help Us All Be Better Communicators"
   publication: "The New York Times Magazine"
   link: "https://www.nytimes.com/2025/01/07/magazine/american-sign-language.html"
-  year: 2025
+  date: "2025-01-07"
   
 - title: "Want to be healthier in old age? Try volunteering"
   publication: "The Guardian"
   link: "https://www.theguardian.com/society/2025/jan/06/volunteering-older-adults"
-  year: 2025
+  date: "2025-01-06"
 
 ########
 # 2024 #
@@ -200,175 +202,175 @@
 - title: "Sour Grapes"
   publication: "Slate"
   link: "https://slate.com/life/2024/12/grapes-red-green-sour-concord-welchs-juice-jelly.html"
-  year: 2024
+  date: "2024-12-23"
   
 - title: "America is doing retirement all wrong"
   publication: "Business Insider, Discourse"
   link: "https://www.businessinsider.com/america-is-doing-retirement-all-wrong-boomers-aging-longevity-happiness-2024-12"
-  year: 2024
+  date: "2024-12-01"
   
 - title: "This green housing trend is booming"
   publication: "The Washington Post"
   link: "https://www.washingtonpost.com/home/2024/10/30/passive-house-adoption-surges/"
-  year: 2024
+  date: "2024-10-30"
   
 - title: "‘I have a pretty carefree life’: four adults over 50 on being childfree"
   publication: "The Guardian"
   link: "https://www.theguardian.com/wellness/2024/sep/16/childfree-no-kids-experience"
+  date: "2024-09-16"
   blurb: "More US adults are opting out of parenthood, but what does growing older without kids really look like?"
-  year: 2024
   
 - title: "Medical Gaslighting Is Real—Here's How to Recognize It and Respond"
   publication: "SELF"
   link: "https://www.self.com/story/medical-gaslighting"
+  date: "2024-09-09"
   blurb: "When you're dealing with pain or other symptoms, not being taken seriously can be a real gut punch."
-  year: 2024
 
 - title: "What makes a home a ‘passive house’?"
   publication: "one5c"
   link: "https://one5c.com/passive-house-136966374/"
+  date: "2024-08-29"
   blurb: "Even if you can’t build one, the ideas can still apply to your home"
-  year: 2024
   
 - title: "How landscaping can help lower your energy bills"
   publication: "one5c"
   link: "https://one5c.com/energy-efficient-landscaping-136966398/"
+  date: "2024-08-29"
   blurb: "Planting trees is one way to keep cool—and warm—when the weather changes"
-  year: 2024
 
 - title: "A beginner’s guide to cool roofs"
   publication: "one5c"
   link: "https://one5c.com/cool-roof-136966406/"
+  date: "2024-08-29"
   blurb: "Keep your need for AC down by bouncing extra heat off your roof"
-  year: 2024
 
 - title: "Smart glass technology, explained"
   publication: "one5c"
   link: "https://one5c.com/smart-glass-windows-136966410/"
+  date: "2024-08-29"
   blurb: "Make your windows work for you"
-  year: 2024
   
 - title: "When a couple doesn’t want more kids (or any) who should get snipped?"
   publication: "The Guardian"
   link: "https://www.theguardian.com/wellness/article/2024/aug/20/surgical-sterilization-how-to-decide"
+  date: "2024-08-20"
   blurb: "Four couples describe why they chose sterilization surgery – and how they decided which of them would get it"
-  year: 2024
 
 - title: "Essay: The Pyramid Scheme of Taste"
   publication: "Mental Hellth"
   blurb: "What we lose when we live vicariously through recommendation."
   link: "https://mentalhellth.xyz/p/the-pyramid-scheme-of-taste"
-  year: 2024
+  date: "2024-08-01"
 
 - title: "Can chewing gum reshape your jawline? We asked experts."
   publication: "Popular Science"
   blurb: "Facial fitness gums claim you can chomp your way to a more chiseled look."
   link: "https://www.popsci.com/health/jawline-gum/"
-  year: 2024
+  date: "2024-07-28"
   
 - title: "Skin Care Is Coming for Your Brain"
   publication: "The Atlantic"
   blurb: "Need to work on your relationships? There’s a moisturizer for that."
   link: "https://www.theatlantic.com/health/archive/2024/07/skin-care-neurocosmetics-brain-mental-health/678958/"
-  year: 2024
+  date: "2024-07-01"
   
 - title: "Feature: Why Do Stolen Relics Worth Millions Keep Ending up in America's Most Prestigious Museums?"
   publication: "Popular Mechanics"
   blurb: "How two bronze masks, stolen in the 1990s, found their way home to Nepal after 30 years."
   link: "https://www.popularmechanics.com/culture/a61409860/solving-the-bhairava-mask-heist/"
-  year: 2024
+  date: "2024-06-28"
   
 - title: "Up at Noon, Out All Night: This Summer Camp Is for Serious Stargazers"
   publication: "Atlas Obscura"
   blurb: "For more than half a century, the International Astronomical Youth Camp has attracted aspiring astronomers from around the world."
   link: "https://www.atlasobscura.com/articles/international-astronomical-youth-camp"
-  year: 2024
+  date: "2024-06-30"
 
 - title: "Missing a friend from the past? You should reach out."
   publication: "Vox"
   blurb: "Your old friend probably wants to DM you too."
   link: "https://www.vox.com/the-highlight/358199/missing-a-friend-from-the-past-you-should-reach-out"
-  year: 2024
+  date: "2024-07-01"
   
 - title: "A Million-Dollar Heist Rocked the Art World—Then Amateur Sleuths Cracked the Case"
   publication: "Popular Mechanics"
   blurb: "How two bronze masks, stolen in the 1990s, found their way home to Nepal after 30 years."
   link: "https://www.popularmechanics.com/"
-  year: 2024
+  date: "2024-01-01"
 
 - title: "What does oil pulling do to your teeth? We asked dentists."
   publication: "Popular Science"
   blurb: "Proponents say it'll whiten your teeth, kill bacteria, and improve oral health, but the science isn't there."
   link: "https://www.popsci.com/health/oil-pulling-dentists-science/"
-  year: 2024
+  date: "2024-06-22"
   
 - title: "Does drinking collagen actually do anything? We asked experts."
   publication: "Popular Science"
   blurb: "The data remains a little tenuous."
   link: "https://www.popsci.com/health/drinking-collagen-supplements"
-  year: 2024
+  date: "2024-01-01"
 
 - title: Porcelain Gallbladder Found in Human Remains in Mississippi Asylum Cemetery
   publication: "Atlas Obscura"
   blurb: "A rare secret was taken to the grave in an unmarked, 100-year-old burial ground."
   link: "https://www.atlasobscura.com/articles/porcelain-gallbladder-grave"
-  year: 2024
+  date: "2024-04-24"
   
 - title: "Where Are The Good Climate Change Apps?"
   publication: "Atmos Magazine"
   blurb: "Apps could help us track our individualized carbon footprints, but some experts are skeptical."
   link: "https://atmos.earth/where-are-the-good-climate-change-apps/"
-  year: 2024
+  date: "2024-04-16"
   
 - title: "Does Long-Term Benadryl Use Increase Dementia Risk?"
   publication: "Scientific American" 
   link: "https://www.scientificamerican.com/article/does-long-term-benadryl-use-increase-dementia-risk/"
-  year: 2024
+  date: "2024-03-27"
 
 - title: "‘We are all unwell’: a scholar’s radical approach to health"
   publication: "The Guardian"
   link: "https://www.theguardian.com/wellness/2024/mar/26/mimi-khuc-book-unwellness-health"
-  year: 2024
+  date: "2024-03-26"
 
 - title: "Food waste in landfills: What you need to know"
   publication: "One5C"
   link: "https://one5c.com/food-waste-landfills-136944213/"
-  year: 2024
+  date: "2024-03-14"
 
 - title: "What is chemical recycling"
   publication: "EHN"
   link: "https://www.ehn.org/what-is-chemical-recycling-2667366790.html"
-  year: 2024
+  date: "2024-03-04"
 
 - title: "Why Scientists Are Mixing Wasabi and Ancient Papyrus"
   publication: "Atlas Obscura"
   link: "https://www.atlasobscura.com/articles/wasabi-preserves-papyrus"
-  year: 2024
+  date: "2024-03-06"
   
 - title: "The Lady Gaga Ferns Are Losing Their Home. It’s Surprisingly Tragic for Science and Society."
   publication: "Atmos Magazine"
   link: "https://atmos.earth/duke-university-is-evicting-the-lady-gaga-ferns/"
-  year: 2024
+  date: "2024-02-26"
   
 - title: "Jeopardy! Winner Reveals Entwined Memory Systems Make a Trivia Champion"
   publication: "Scientific American"
   link: "https://www.scientificamerican.com/article/jeopardy-winner-reveals-entwined-memory-systems-make-a-trivia-champion/"
-  year: 2024
+  date: "2024-02-13"
 
 - title: "Not Enough Emojis"
   publication: "Scholastic/Science World"
   link: "https://scienceworld.scholastic.com/"
-  year: 2024
+  date: "2024-01-01"
 
 - title: "Snack-Stealing Seagulls"
   publication: "Scholastic/Science World"
   link: "https://scienceworld.scholastic.com/"
-  year: 2024
+  date: "2024-01-01"
 
 - title: "Why Holes at the Bottom of the Ocean Disappear and Reappear"
   publication: "Atlas Obscura"
   link: "https://www.atlasobscura.com/articles/ocean-floor-holes-purposes-eels"
-  year: 2024
+  date: "2024-01-18"
   
 
 ########
@@ -378,202 +380,202 @@
 - title: "What does it mean to be likable – and who has to abide by those rules?"
   publication: "The Guardian"
   link: "https://www.theguardian.com/wellness/2023/dec/18/likability-women-people-of-color-gender-bias"
-  year: 2023
+  date: "2023-12-18"
 
 - title: "People May Speak More Loudly or Quietly Depending on the Climate"
   publication: "Atlas Obscura"
   link: "https://www.atlasobscura.com/articles/climate-affects-loud-languages"
-  year: 2023
+  date: "2023-12-14"
   
 - title: "Why is plastic bad for the environment?"
   publication: "One5C"
   link: "https://one5c.com/why-plastic-bad-environment-136931506/"
-  year: 2023
+  date: "2023-12-13"
 
 - title: "Scented period products bring worrisome toxic exposures. Who’s most at risk?"
   publication: "EHN"
   link: "https://www.ehn.org/non-toxic-period-products-2666459274.html"
-  year: 2023
+  date: "2023-12-07"
 
 - title: "These 10 scientists are on the cusp of changing the world"
   publication: "Popular Science"
   link: "https://www.popsci.com/science/brilliant-10-2023/"
-  year: 2023
+  date: "2023-12-05"
 
 - title: "This climate tech startup is reducing emissions—by feeding seaweed to cattle"
   publication: "Quartz"
   link: "https://qz.com/sea-forest-seaweed-methane-emissions-1851095842"
-  year: 2023
+  date: "2023-12-18"
 
 - title: "This femtech startup is unleashing AI on fetal ultrasounds"
   publication: "Quartz"
   link: "https://qz.com/fetal-ultrasounds-ai-sonio-1851094494"
-  year: 2023
+  date: "2023-12-18"
 
 - title: "Century-old buffalofish are still living in their prime"
   publication: "Popular Science"
   link: "https://www.popsci.com/environment/buffalofish-live-past-100/"
-  year: 2023
+  date: "2023-11-10"
 
 - title: "Graphic warning labels might convince people to eat less meat"
   publication: "Popular Science"
   link: "https://www.popsci.com/environment/eat-less-meat-warning-labels/"
-  year: 2023
+  date: "2023-11-06"
 
 - title: "America Is Getting Lonelier and More Indoorsy. That’s Not a Coincidence."
   publication: The Atlantic
   link: https://www.theatlantic.com/health/archive/2023/11/nature-avoidance-social-isolation-loneliness/675984/
-  year: 2023
+  date: "2023-11-01"
   
 - title: "The case for inviting everyone to everything"
   publication: Vox
   link: https://www.vox.com/even-better/23943426/anti-gatekeeping-invitations-parties-guests-strangers-old-friends
-  year: 2023
+  date: "2023-11-12"
 
 - title: "8 new types of ‘forever chemicals’ found in river linked to US cancer cluster"
   publication: "Popular Science"
   link: "https://www.popsci.com/environment/news-pfas-chemours-north-carolina/"
-  year: 2023
+  date: "2023-10-30"
 
 - title: "Natural disasters can burn out our hormonal systems for years"
   publication: "Popular Science"
   link: "https://www.popsci.com/environment/tsunami-hormone-long-term/"
-  year: 2023
+  date: "2023-10-23"
   
 - title: "Why some people don’t feel the buzz of caffeine"
   publication: The Washington Post
   link: https://www.washingtonpost.com/wellness/2023/10/10/caffeine-sensitivity-coffee-heart-genes/
-  year: 2023
+  date: "2023-10-10"
 
 - title: "Tree plantations try to offset our carbon pollution. Here’s the problem."
   publication: "Popular Science"
   link: "https://www.popsci.com/environment/planting-trees-carbon-offsets/"
-  year: 2023
+  date: "2023-10-09"
 
 - title: "Two fault lines near Seattle could rupture in one giant earthquake"
   publication: "Popular Science"
   link: "https://www.popsci.com/science/earthquake-two-faults-seattle/"
-  year: 2023
+  date: "2023-09-28"
 
 - title: "Grizzlies are getting killed by roads, but the risks are bigger than roadkill"
   publication: "Popular Science"
   link: "https://www.popsci.com/environment/mammals-mortalities-roads/"
-  year: 2023
+  date: "2023-09-25"
 
 - title: "When climate change throws the Pacific off balance, the world’s weather follows"
   publication: "Popular Science"
   link: "https://www.popsci.com/environment/pacific-ocean-weather-patterns-climate-change/"
-  year: 2023
+  date: "2023-09-19"
 
 - title: "Scientists are trying to teach AI how to smell"
   publication: "Popular Science"
   link: "https://www.popsci.com/science/teach-ai-how-to-smell/"
-  year: 2023
+  date: "2023-09-11"
   
 - title: "Light Pollution Is Causing Oyster Insomnia"
   publication: "Hakai Magazine"
   link: "https://hakaimagazine.com/news/light-pollution-is-causing-oyster-insomnia/"
-  year: 2023
+  date: "2023-09-06"
 
 - title: "Stop Calling It 'Climate Anxiety.' It's Climate Dread."
   publication: The New Republic
   link: https://newrepublic.com/article/174710/stop-calling-climate-anxiety-its-climate-dread
-  year: 2023
+  date: "2023-08-28"
 
 - title: "How Many Hours of Sleep Do You Need to Be Productive?"
   publication: "Outside Magazine"
   link: "https://www.outsideonline.com/health/wellness/how-many-hours-of-sleep-do-you-need-to-be-productive/"
-  year: 2023
+  date: "2023-08-29"
 
 - title: "Why you might feel older than you actually are"
   publication: "Popular Science"
   link: "https://www.popsci.com/health/what-is-biological-age/"
-  year: 2023
+  date: "2023-07-11"
   
 - title: "What to Know About Seasonal Depression"
   publication: "The New York Times"
   link: "https://www.nytimes.com/article/seasonal-depression-what-to-know.html"
-  year: 2023
+  date: "2023-01-01"
 
 - title: "Can You Survive Summer?"
   publication: "The New York Times"
   link: "https://www.nytimes.com/interactive/2023/06/02/well/live/summer-risks-quiz.html"
-  year: 2023
+  date: "2023-06-02"
 
 - title: "How a Cardiologist Keeps His Heart Healthy"
   publication: "The New York Times"
   link: "https://www.nytimes.com/interactive/2023/05/29/well/heart-health-tips.html"
-  year: 2023
+  date: "2023-05-29"
 
 - title: "Are There Any Benefits to Tongue Scraping?"
   publication: "The New York Times"
   link: "https://www.nytimes.com/2023/05/16/well/live/tongue-scraping-benefits.html"
-  year: 2023
+  date: "2023-05-16"
 
 - title: "The Best and Worst Habits for Eyesight"
   publication: "The New York Times - 1M views in first week"
   link: "https://www.nytimes.com/2023/05/15/well/live/eyesight-vision-habits.html"
-  year: 2023
+  date: "2023-05-15"
 
 - title: "How a Gastroenterologist Cares for Her Gut"
   publication: "The New York Times"
   link: "https://www.nytimes.com/interactive/2023/05/01/well/eat/gut-health-tips.html"
-  year: 2023
+  date: "2023-05-01"
 
 - title: "Why Do Some People Develop Allergies in Adulthood?"
   publication: "The New York Times"
   link: "https://www.nytimes.com/2023/04/19/well/adult-allergies.html"
-  year: 2023
+  date: "2023-04-19"
 
 - title: "Why Does My Neck Look So Much Older Than My Face?"
   publication: "The New York Times"
   link: "https://www.nytimes.com/2023/04/11/well/live/aging-neck-face-skin.html"
-  year: 2023
+  date: "2023-04-11"
 
 - title: "Is It a Cold, or Is It Allergies?"
   publication: "The New York Times"
   link: "https://www.nytimes.com/article/cold-allergy-symptoms.html"
-  year: 2023
+  date: "2023-04-09"
 
 - title: "Why Oral Hygiene Is Crucial to Your Overall Health"
   publication: "The New York Times"
   link: "https://www.nytimes.com/2023/04/06/well/oral-health-hygiene.html"
-  year: 2023
+  date: "2023-04-06"
 
 - title: "Power Your Run With Better Breathing"
   publication: "The New York Times"
   link: "https://www.nytimes.com/2023/03/29/well/move/run-diaphragmatic-breathing.html"
-  year: 2023
+  date: "2023-03-29"
 
 - title: "How an Allergist Gets Through Allergy Season"
   publication: "The New York Times"
   link: "https://www.nytimes.com/interactive/2023/03/23/well/live/spring-allergy-tips.html"
-  year: 2023
+  date: "2023-03-23"
 
 - title: "Are Allergies Making Me Tired?"
   publication: "The New York Times"
   link: "https://www.nytimes.com/2023/03/14/well/live/allergy-fatigue-symptoms.html"
-  year: 2023
+  date: "2023-03-14"
   
 - title: "What Can Hypnosis Do for Your Health?"
   publication: "The New York Times"
   link: "https://www.nytimes.com/2023/02/08/well/mind/hypnosis-therapy-mental-health-depression.html"
-  year: 2023
+  date: "2023-02-08"
 
 - title: "How to Stop Ruminating"
   publication: The New York Times
   link: https://www.nytimes.com/2023/02/01/well/mind/stop-rumination-worry.html
-  year: 2023
+  date: "2023-02-01"
 
 - title: "How a Personal Trainer Plans His Workouts?"
   publication: "The New York Times"
   link: "https://www.nytimes.com/interactive/2023/01/26/well/move/personal-trainer-workout-tips.html"
-  year: 2023
+  date: "2023-01-26"
 
 - title: "Is This Cooking Oil Actually Healthy?"
   publication: "The New York Times"
   link: "https://www.nytimes.com/interactive/2023/01/21/well/eat/healthy-cooking-oils.html"
-  year: 2023
+  date: "2023-01-21"
   
 
 
@@ -583,142 +585,142 @@
 - title: "Small Steps to Improve Your Mental Health in 2023"
   publication: The New York Times
   link: "https://www.nytimes.com/2022/12/26/well/mind/mental-health-advice-2023.html"
-  year: 2022
+  date: "2022-12-26"
 
 - title: "How a Therapist Manages Her Stress"
   publication: The New York Times
   link: "https://www.nytimes.com/interactive/2022/12/19/well/mind/therapist-stress-relief-tips.html"
-  year: 2022
+  date: "2022-12-19"
 
 - title: "How Important Is Stretching, Really?"
   publication: The New York Times
   link: "https://www.nytimes.com/2022/12/15/well/move/stretching-exercise-workout.html"
-  year: 2022
+  date: "2022-12-15"
 
 - title: "How to Actually Enjoy the Holidays"
   publication: The New York Times
   link: "https://www.nytimes.com/interactive/2022/12/07/well/mind/holiday-stress.html"
-  year: 2022
+  date: "2022-12-07"
 
 - title: "What Are Whole Grains, Anyway?"
   publication: The New York Times
   link: "https://www.nytimes.com/2022/12/03/well/eat/whole-grains.html"
-  year: 2022
+  date: "2022-12-03"
 
 - title: "How a Running Expert Keeps on Running"
   publication: The New York Times
   link: "https://www.nytimes.com/interactive/2022/11/23/well/move/exercise-scientist-running-motivation-tips.html"
-  year: 2022
+  date: "2022-11-23"
 
 - title: "Sugar Alcohols Are in Many Sugar-Free Foods. What Are They?"
   publication: The New York Times
   link: "https://www.nytimes.com/2022/11/15/well/eat/sugar-alcohols.html"
-  year: 2022
+  date: "2022-11-15"
 
 - title: "Is This Vegetable Healthier Raw or Cooked?"
   publication: The New York Times
   link: "https://www.nytimes.com/interactive/2022/11/10/well/eat/vegetable-healthy-raw-cooked.html"
-  year: 2022
+  date: "2022-11-10"
 
 - title: "Is It Better to Brush Your Teeth Before Breakfast or After?"
   publication: "The New York Times - 1.3M views in first week"
   link: "https://www.nytimes.com/2022/11/01/well/live/brushing-teeth-breakfast.html"
-  year: 2022
+  date: "2022-11-01"
 
 - title: "How to Boost Your Immune System During Cold and Flu Season"
   publication: "The New York Times - 1M views in first week"
   link: "https://www.nytimes.com/2022/10/14/well/live/cold-flu-immune-system.html"
-  year: 2022
+  date: "2022-10-14"
 
 - title: "Is It Safe to Whiten Your Teeth? And if So, What Works?"
   publication: The New York Times
   link: "https://www.nytimes.com/2022/10/03/well/live/teeth-whitening-safety.html"
-  year: 2022
+  date: "2022-10-03"
 
 - title: "Dry Brushing, Body Scraping, Gua Sha: Lymphatic Health Is All the Rage"
   publication: The New York Times
   link: "https://www.nytimes.com/2022/09/12/well/live/lymphatic-drainage-gua-sha.html"
-  year: 2022
+  date: "2022-09-12"
 
 - title: "How Dentists Keep Their Own Teeth Healthy"
   publication: The New York Times
   link: "https://www.nytimes.com/interactive/2022/09/08/well/dentists-teeth-care.html"
-  year: 2022
+  date: "2022-09-08"
   
 - title: "How Heat Waves Take a Toll on Mental Health"
   publication: The New York Times
   link: https://www.nytimes.com/2022/08/19/well/mind/heat-mental-health.html
-  year: 2022
+  date: "2022-08-19"
 
 - title: "Are Earbuds Damaging My Hearing?"
   publication: The New York Times
   link: "https://www.nytimes.com/2022/08/16/well/live/headphones-hearing-loss.html"
-  year: 2022
+  date: "2022-08-16"
 
 - title: "What Is Heat Rash and How Do You Treat It?"
   publication: The New York Times
   link: "https://www.nytimes.com/2022/08/09/well/live/heat-rash-treatment-symptoms.html"
-  year: 2022
+  date: "2022-08-09"
 
 - title: "How a Sleep Scientist Falls Asleep"
   publication: The New York Times
   link: "https://www.nytimes.com/interactive/2022/08/05/well/sleep-scientist-tips.html"
-  year: 2022
+  date: "2022-08-05"
 
 - title: "Does Vitamin B6 Boost Mental Health?"
   publication: The New York Times
   link: "https://www.nytimes.com/2022/08/02/well/mind/vitamin-b6-benefits.html"
-  year: 2022
+  date: "2022-08-02"
 
 - title: "How to Live With Covid When You Are Tired of Living With Covid"
   publication: "The New York Times - 1.2M views in first week"
   link: "https://www.nytimes.com/2022/07/25/well/live/covid-ba5-precautions.html"
-  year: 2022
+  date: "2022-07-25"
 
 - title: "The Worst Foods and Drinks for Your Teeth"
   publication: "The New York Times - 1.6M views in first week"
   link: "https://www.nytimes.com/2022/07/18/well/eat/teeth-decay-food-drinks.html"
-  year: 2022
+  date: "2022-07-18"
 
 - title: "How to Stay Hydrated in a Heat Wave"
   publication: "The New York Times"
   link: "https://www.nytimes.com/article/hydration-heat-wave.html"
-  year: 2022
+  date: "2022-07-15"
 
 - title: "The Foods That Keep You Hydrated"
   publication: "The New York Times"
   link: "https://www.nytimes.com/2022/06/28/well/hydrating-foods.html"
-  year: 2022
+  date: "2022-06-28"
 
 - title: "Stress Might Age the Immune System, New Study Finds"
   publication: "The New York Times"
   link: "https://www.nytimes.com/2022/06/17/well/mind/stress-aging-immune-system.html"
-  year: 2022
+  date: "2022-06-17"
 
 - title: "Extinction obituary: how the Bramble Cay melomys became the first mammal lost to the climate crisis"
   publication: The Guardian
   link: "https://www.theguardian.com/environment/2022/jun/01/extinction-obituary-bramble-cay-melomys-climate-change-aoe"
-  year: 2022
+  date: "2022-06-01"
 
 - title: "Extinction obituary: the sudden, sad disappearance of the Christmas Island forest skink"
   publication: The Guardian
   link: https://www.theguardian.com/environment/2022/may/18/christmas-island-forest-skinks-lizard-extinct-aoe
-  year: 2022
+  date: "2022-05-18"
   
 - title: "Feature: Untangling Race From Hair"
   publication: SAPIENS
   link: https://www.sapiens.org/biology/hair-race-evolution/
-  year: 2022
+  date: "2022-03-09"
   
 - title: "The First Global Vaccination Expedition Set Sail in 1803"
   publication: "Discover Magazine (Print issue)"
   link: https://www.discovermagazine.com/health/the-first-global-vaccination-expedition-set-sail-in-1803
-  year: 2022
+  date: "2022-08-31"
 
 - title: "What is… microfluidics?"
   publication: "The Garage"
   link: "https://garage.hp.com/us/en/innovation/what-is-microfluidics-tech-explainer.html"
-  year: 2022
+  date: "2022-03-01"
 
   
 
@@ -728,92 +730,92 @@
 - title: "Feature: The ups and downs of a great vertical migration"
   publication: Knowable Magazine; Republished in The Atlantic, Scientific American, Smithsonian Magazine, and Inverse
   link: https://knowablemagazine.org/content/article/living-world/2021/up-downs-great-vertical-migration
-  year: 2021
+  date: "2021-12-03"
 
 - title: "What Happens to Caves When Wildfires Scorch the Surface?"
   publication: "Atlas Obscura"
   link: "https://www.atlasobscura.com/articles/wildfires-lava-beds-national-monument"
-  year: 2021
+  date: "2021-06-06"
 
 - title: "The US falls behind most of the world in plastic pollution legislation"
   publication: "EHN"
   link: "https://www.ehn.org/plastic-pollution-2655191194.html"
-  year: 2021
+  date: "2021-06-06"
 
 - title: "Why Were These Mysterious Stone Orbs Stashed All Over Neolithic Britain?"
   publication: "Atlas Obscura"
   link: "https://www.atlasobscura.com/articles/mysterious-neolithic-stone-balls"
-  year: 2021
+  date: "2021-09-22"
   
 - title: "Essay: Does Making Predictions Impede the Formation of Memories?"
   publication: Catapult
   link: "https://magazine.catapult.co/people/stories/hannah-seo-memory-formation-prediction-neuroscience"
-  year: 2021
+  date: "2021-09-22"
 
 - title: "The Mysterious Coral Cousin Swarming the Palmyra Atoll"
   publication: "Atlas Obscura"
   link: "https://www.atlasobscura.com/articles/corallimorphs-palmyra-atoll"
-  year: 2021
+  date: "2021-07-01"
 
 - title: "All Coral Cells Grown in a Dish for the First Time"
   publication: "Scientific American (Print issue)"
   link: "https://www.scientificamerican.com/article/all-coral-cells-grown-in-a-dish-for-the-first-time/"
-  year: 2021
+  date: "2021-07-01"
 
 - title: "How Scientific Detective Work Pinned Down the Oldest Known Shark Attack"
   publication: "Atlas Obscura"
   link: "https://www.atlasobscura.com/articles/oldest-known-shark-attack"
-  year: 2021
+  date: "2021-04-29"
 
 - title: "The Colorful, Costly World of Custom Keyboard Enthusiasts"
   publication: "WIRED"
   link: "https://www.wired.com/story/colorful-costly-world-custom-keyboard-enthusiasts/"
-  year: 2021
+  date: "2021-06-08"
 
 - title: "Feature: Indigenous harvest rights still under attack in the upper Great Lakes"
   publication: "EHN"
   link: https://www.ehn.org/indigenous-harvest-rights-2652632895.html
-  year: 2021
+  date: "2021-04-29"
 
 - title: "There is a “massive power station” lurking under the ocean"
   publication: "Inverse"
   link: "https://www.inverse.com/science/deep-sea-volcanoes-future-of-energy"
-  year: 2021
+  date: "2021-04-29"
   
 - title: "Blah Blah Blah: The Lack of Small Talk Is Breaking Our Brains"
   publication: The Walrus
   link: https://thewalrus.ca/blah-blah-blah-the-lack-of-small-talk-is-breaking-our-brains/
-  year: 2021
+  date: "2021-04-22"
 
 - title: "Forecast or Remember: The Brain Must Choose One"
   publication: "Scientific American (Print issue)"
   link: "https://www.scientificamerican.com/article/forecast-or-remember-the-brain-must-choose-one/"
-  year: 2021
+  date: "2021-04-01"
 
 - title: "The Dyatlov Pass Incident: Can Science Explain What Happened to the Hikers?"
   publication: "Discover Magazine"
   link: "https://www.discovermagazine.com/planet-earth/the-dyatlov-pass-incident-can-science-explain-what-happened-to-the-hikers"
-  year: 2021
+  date: "2021-03-13"
 
 - title: "See the wonderful world of fermented foods on one delicious chart"
   publication: "Popular Science (Print issue)"
   link: "https://www.popsci.com/story/science/different-fermented-foods-chart/"
-  year: 2021
+  date: "2021-02-20"
 
 - title: "Why you never forget how to ride a bike"
   publication: "Popular Science (Print issue)"
   link: "https://www.popsci.com/story/science/ride-a-bike-never-forget-neuroscience/"
-  year: 2021
+  date: "2021-01-01"
   
 - title: "Fish farming has a plastic problem"
   publication: "EHN"
   link: "https://www.ehn.org/plastic-in-farmed-fish-2650268080.html"
-  year: 2021
+  date: "2021-02-04"
 
 - title: "Local languages are dying out and taking invaluable knowledge with them"
   publication: "Popular Science (Print issue)"
   link: "https://www.popsci.com/story/science/why-save-dying-languages/"
-  year: 2021
+  date: "2021-01-22"
 
 
 ########
@@ -823,122 +825,122 @@
 - title: "Feature: Unplugged: Abandoned oil and gas wells leave the ocean floor spewing methane"
   publication: "EHN"
   link: "https://www.ehn.org/oil-and-gas-wells-methane-oceans-2649126354.html"
-  year: 2020
+  date: "2020-12-08"
 
 - title: "Major oil and gas companies join program to cut methane emissions"
   publication: "EHN"
   link: "https://www.ehn.org/global-methane-emissions-program-2649020110.html"
-  year: 2020
+  date: "2020-11-24"
 
 - title: "No place is safe: Tiny bits of plastic pollute the snow, streams on iconic Mount Everest"
   publication: "EHN"
   link: "https://www.ehn.org/plastic-pollution-mount-everest-2648990943.html"
-  year: 2020
+  date: "2020-11-23"
 
 - title: "Dust from your old furniture likely contains harmful chemicals—but there’s a solution"
   publication: "EHN"
   link: "https://www.ehn.org/pfas-and-flame-retardants-in-house-dust-2648396264.html"
-  year: 2020
+  date: "2020-10-20"
 
 - title: "Climate change will continue to widen gaps in food security, new study finds"
   publication: "EHN"
   link: "https://www.ehn.org/climate-change-and-food-security-2647870834.html"
-  year: 2020
+  date: "2020-10-01"
 
 - title: "Long-banned toxics are still accumulating in Great Lakes birds—as new chemical threats emerge"
   publication: "EHN"
   link: "https://www.ehn.org/great-lakes-pollution-birds-2647732152.html"
-  year: 2020
+  date: "2020-09-22"
 
 - title: "Mount Rainier’s first wolverine mama in a century is a sign of the species’ comeback"
   publication: "Popular Science"
   link: "https://www.popsci.com/story/science/wolverines-rainier-return/"
-  year: 2020
+  date: "2020-08-28"
 
 - title: "Why scientific papers are growing increasingly inscrutable"
   publication: "Popular Science"
   link: "https://www.popsci.com/story/science/science-journals-acronyms-communication/"
-  year: 2020
+  date: "2020-08-25"
 
 - title: "Gut bacteria might flip the effects of a common cancer-causing mutation in an unexpected way"
   publication: "Popular Science"
   link: "https://www.popsci.com/story/health/microbiome-colorectal-cancer-risk-p53/"
-  year: 2020
+  date: "2020-08-20"
 
 - title: "Citizens of Mauritius are cleaning up a major oil spill themselves"
   publication: "Popular Science"
   link: "https://www.popsci.com/story/environment/mauritius-oil-spill/"
-  year: 2020
+  date: "2020-08-12"
 
 - title: "Manmade pollutants could be harming marine mammals more than we think"
   publication: "Popular Science"
   link: "https://www.popsci.com/story/animals/ocean-pollution-harms-whales-dolphins/"
-  year: 2020
+  date: "2020-08-11"
 
 - title: "The safest way to travel during the pandemic"
   publication: "Popular Science"
   link: "https://www.popsci.com/story/health/covid-travel-air-bus-train/"
-  year: 2020
+  date: "2020-08-11"
 
 - title: "Clear masks help the hard of hearing, but they could benefit everybody"
   publication: "Popular Science"
   link: "https://www.popsci.com/story/health/clear-masks-options-accessibility/"
-  year: 2020
+  date: "2020-08-05"
 
 - title: "Exploring the common misconceptions regarding trans and non-binary identities"
   publication: "Popular Science"
   link: "https://www.popsci.com/story/science/trans-myths-jk-rowling/"
-  year: 2020
+  date: "2020-07-28"
 
 - title: "How to evacuate and find emergency shelter during a pandemic"
   publication: "Popular Science"
   link: "https://www.popsci.com/story/diy/evacuate-storm-disaster-during-pandemic/"
-  year: 2020
+  date: "2020-07-19"
 
 - title: "Ticks that cause red meat allergies are spreading, and invasive fire ants may be our best hope"
   publication: "Popular Science"
   link: "https://www.popsci.com/story/science/lone-star-tick-fire-ant-meat-allergy/"
-  year: 2020
+  date: "2020-07-17"
 
 - title: "These ultra-black fish camouflage with the darkness of the deep sea"
   publication: "Popular Science"
   link: "https://www.popsci.com/story/science/ultra-dark-deep-sea-fish/"
-  year: 2020
+  date: "2020-07-17"
 
 - title: "This photographer chases the Midwest’s most dramatic storms. Here are some of his favorite shots."
   publication: "Popular Science"
   link: "https://www.popsci.com/story/science/weather-storms-photography/"
-  year: 2020
+  date: "2020-07-08"
 
 - title: "Solving the medical mystery of a brain that sees numbers as spaghetti"
   publication: "Popular Science"
   link: "https://www.popsci.com/story/science/numbers-look-like-spaghetti/"
-  year: 2020
+  date: "2020-06-29"
 
 - title: "LGBTQ+ alliance groups can have a positive effect on entire student populations"
   publication: "Popular Science"
   link: "https://www.popsci.com/story/health/lgbtq-teens-bully-alliance/"
-  year: 2020
+  date: "2020-06-25"
 
 - title: "Trans people’s access to health care is imperiled, but a recent Supreme Court case might help"
   publication: "Popular Science"
   link: "https://www.popsci.com/story/health/lgbtq-trans-discrimination-case-rule/"
-  year: 2020
+  date: "2020-06-23"
 
 - title: "Working from home can ravage your spine, but good posture can help fix it"
   publication: "Popular Science"
   link: "https://www.popsci.com/story/science/work-from-home-good-posture-spine/"
-  year: 2020
+  date: "2020-06-12"
 
 - title: "Tear gas during COVID-19 is a public health disaster"
   publication: "Popular Science"
   link: "https://www.popsci.com/story/health/tear-gas-coronavirus/"
-  year: 2020
+  date: "2020-06-08"
 
 - title: "Profile: Meet the Young Doctor Leading Nepal's COVID-19 Testing Program"
   publication: "Medscape"
   link: "https://www.medscape.com/viewarticle/932233?form=fpf"
-  year: 2020
+  date: "2020-06-12"
 
 
   

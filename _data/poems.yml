@@ -1,7 +1,10 @@
+# New entries should include a quoted `date: "YYYY-MM-DD"` field so they sort correctly in feed.xml.
+
 - title: Collecting, yes, collecting still
   blurb: the next / will nourish me / better I say yes / the next will fill me up.
   publication: Palette Poetry
   link: https://www.palettepoetry.com/2023/05/01/collecting-yes-collecting-still/
+  date: "2023-05-01"
   image: "/assets/images/poems/age.webp"
   alt-text: "background image for poem text"
 
@@ -30,6 +33,7 @@
   blurb: I am behaving / as though the entire / year is here with / me today
   publication: Broadkill Review
   link: https://www.broadkillreview.com/post/25-by-hannah-seo
+  date: "2021-11-24"
   image: "/assets/images/poems/Image by Annie Spratt.webp"
   alt-text: "background image for poem text"
 
@@ -44,6 +48,7 @@
   blurb: Every name I pull out of my hair is a soft / blow to the spine, decibels for Newtons.
   publication: New Limestone Review
   link: http://newlimestonereview.as.uky.edu/2019/09/01/ouroboros/
+  date: "2019-09-01"
   image: "/assets/images/poems/Image by Shyam.webp"
   alt-text: "background image for poem text"
 
@@ -51,6 +56,7 @@
   blurb: there is a two-inch gap behind my books, / a mouth stuffed with shiny aluminum / packaging
   publication: Barzakh Magazine
   link: https://www.barzakhmag.net/spring-2020-poetry/2020/6/28/hannah-seo
+  date: "2020-06-28"
   image: "/assets/images/poems/Image by Olga Kononenko.webp"
   alt-text: "background image for poem text"
 

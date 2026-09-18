@@ -6,17 +6,17 @@ canonical_url: https://hannahseo.com/journalism
 ---
 
 <div>
-  {% assign years = site.data.clips | map: "year" | uniq %}
-  {% for year in years %}
-    {% assign clips = site.data.clips | where: "year", year %}
+  {% assign sorted_clips = site.data.clips | sort: "date" | reverse %}
+  {% assign year_groups = sorted_clips | group_by_exp: "item", "item.date | slice: 0, 4" | sort: "name" | reverse %}
+  {% for group in year_groups %}
     <div class="row pad-top">
       <div class="column left-rail">
         <h3>
-          {{ year }}
+          {{ group.name }}
         </h3>
       </div>
       <div class="column">
-        {% for clip in clips %}
+        {% for clip in group.items %}
         <div>
           <a href="{{ clip.link }}"><u>{{ clip.title }}</u></a>
           <br/>
